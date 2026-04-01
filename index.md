@@ -2,7 +2,7 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Página principal de propuestas para el TPP."
+description: "Página principal de propuestas."
 ---
 
 # Propuestas de producto
@@ -15,6 +15,6 @@ El objetivo de este sitio es documentar y comparar las diferentes alternativas e
 
 Puedes navegar por las distintas propuestas utilizando el menú lateral, o acceder directamente desde aquí:
 
-1. [Opción 1: [Nombre corto de la idea 1]](propuestas/tema-1.html)
-2. [Opción 2: [Nombre corto de la idea 2]](propuestas/tema-2.html)
-3. [Opción 3: [Nombre corto de la idea 3]](propuestas/tema-3.html)
+1. [**ScoreMaster (Promedios 2.0):** Plataforma deportiva de alto rendimiento.](propuestas/tema-1.html)
+2. [**CryptoWealth:** Herramienta integral de gestión de inversiones digitales.](propuestas/tema-2.html)
+3. [**MedTrack:** Sistema integral de seguimiento clínico y gestión de pacientes.](propuestas/tema-3.html)

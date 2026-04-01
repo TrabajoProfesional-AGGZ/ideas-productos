@@ -1,35 +1,44 @@
 ---
 layout: default
-title: Opción 2 - [Nombre de la Propuesta]
+title: 2. CryptoWealth (Inversiones)
 nav_order: 3
 ---
 
-# [Nombre de la Propuesta]
+# CryptoWealth: Gestión Integral de Activos Digitales
 
-## 🎯 Resumen Ejecutivo
-**[Breve descripción de 2 o 3 líneas sobre qué es el proyecto y qué busca resolver]**
+## 🎯 Necesidad u oportunidad detectada
 
----
+El crecimiento exponencial de las inversiones digitales ha generado una fragmentación de la información.
 
-## 🛑 El Problema
-*[Describe aquí la necesidad, vulnerabilidad o área de mejora que justifica la existencia de este proyecto]*
-- Placeholder para el problema a resolver.
-- Placeholder para el contexto actual.
+Los inversores suelen tener activos distribuidos en múltiples plataformas (Exchanges, brokers de acciones, wallets de NFT), lo que dificulta tener una visión consolidada del patrimonio y el riesgo.
 
-## 💡 La Solución Propuesta
-*[Describe cómo tu proyecto aborda el problema mencionado arriba]*
-- Placeholder para el enfoque principal.
-- Placeholder para las funcionalidades clave.
+## 💡 Solución planteada
 
-## 🛠️ Stack Tecnológico (Posible)
-*[Enumera lenguajes, frameworks, herramientas o distribuciones que se usarían]*
-- **Herramienta / Lenguaje 1:** (Ej: Python, Kali Linux, etc.)
-- **Herramienta / Lenguaje 2:** ## ⚖️ Análisis de Viabilidad
+Una plataforma centralizada que permite monitorear de forma integral el estado de inversiones en acciones, criptomonedas y otros activos digitales.
 
-### Pros
-* [Ventaja 1 de elegir este tema]
-* [Ventaja 2 de elegir este tema]
+La herramienta consolida datos de diversas fuentes para ofrecer análisis de rendimiento, diversificación de cartera y proyecciones en un solo lugar.
 
-### Contras / Desafíos
-* [Posible obstáculo 1]
-* [Posible obstáculo 2]
+## 👥 Clientes objetivos
+
+* **Inversores Jóvenes:** Nativos digitales interesados en el mercado de capitales y criptoactivos.
+* **Asesores Financieros:** Que requieren una herramienta para visualizar carteras de clientes.
+
+## 📱 Medios de uso
+
+* **Web:** Panel de control con gráficos avanzados y gestión de activos.
+* **Mobile:** Aplicación para monitoreo rápido y alertas de precios.
+
+## 🤖 Uso de IA
+
+* **Sentiment Analysis:** Utilización de modelos de procesamiento de lenguaje natural (NLP) para analizar noticias y redes sociales en tiempo real, detectando tendencias de mercado y flujos de opinión que puedan afectar las cotizaciones.
+
+## 🛠️ Stack Tecnológico
+
+* **Backend:** Python (FastAPI) por su robustez en el manejo de modelos de IA.
+* **Frontend:** React con bibliotecas de visualización de datos (D3.js o Recharts).
+* **IA:** TensorFlow o PyTorch para el análisis de sentimientos.
+* **Integraciones:** APIs de terceros (CoinMarketCap, Yahoo Finance, Binance).
+
+## 🎨 Prueba de Concepto (PoC)
+
+Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](https://www.figma.com/make/1GhGtCxTGD2DdBg4lP3b0C/Fintech-Web-App-Dashboard?p=f)

@@ -1,35 +1,44 @@
 ---
 layout: default
-title: Opción 1 - [Nombre de la Propuesta]
+title: 1. ScoreMaster (Promedios 2.0)
 nav_order: 2
 ---
 
-# [Nombre de la Propuesta]
+# ScoreMaster: Evolución de la Información Deportiva
 
-## 🎯 Resumen Ejecutivo
-**[Breve descripción de 2 o 3 líneas sobre qué es el proyecto y qué busca resolver]**
+## 🎯 Necesidad u oportunidad detectada
 
----
+Se identifica una clara deficiencia en las plataformas actuales de seguimiento deportivo (específicamente en referentes como *Promiedos*), las cuales presentan problemas críticos de rendimiento, una interfaz obsoleta y una experiencia de usuario (UX) deficiente.
 
-## 🛑 El Problema
-*[Describe aquí la necesidad, vulnerabilidad o área de mejora que justifica la existencia de este proyecto]*
-- Placeholder para el problema a resolver.
-- Placeholder para el contexto actual.
+Existe un mercado masivo de usuarios que demanda información en tiempo real con una estética moderna y fluida.
 
-## 💡 La Solución Propuesta
-*[Describe cómo tu proyecto aborda el problema mencionado arriba]*
-- Placeholder para el enfoque principal.
-- Placeholder para las funcionalidades clave.
+## 💡 Solución planteada
 
-## 🛠️ Stack Tecnológico (Posible)
-*[Enumera lenguajes, frameworks, herramientas o distribuciones que se usarían]*
-- **Herramienta / Lenguaje 1:** (Ej: Python, Kali Linux, etc.)
-- **Herramienta / Lenguaje 2:** ## ⚖️ Análisis de Viabilidad
+Desarrollo de una plataforma multidispositivo optimizada para el procesamiento de datos en tiempo real.
 
-### Pros
-* [Ventaja 1 de elegir este tema]
-* [Ventaja 2 de elegir este tema]
+ScoreMaster se posiciona como una alternativa premium que prioriza la usabilidad y la velocidad de respuesta, permitiendo el seguimiento detallado de competiciones futbolísticas con un diseño limpio y funcional.
 
-### Contras / Desafíos
-* [Posible obstáculo 1]
-* [Posible obstáculo 2]
+## 👥 Clientes objetivos
+
+* **Usuarios Finales:** Aficionados al fútbol que buscan una experiencia de uso superior.
+* **Marcas Deportivas / Anunciantes:** Empresas interesadas en publicidad segmentada de alto alcance.
+
+## 📱 Medios de uso
+
+* **Web:** Dashboard interactivo con actualizaciones mediante WebSockets.
+* **Mobile:** Aplicación nativa/híbrida con notificaciones push de baja latencia.
+
+## 🤖 Uso de IA
+
+* **Generación de Resúmenes:** Uso de NLP para crear síntesis automáticas de los eventos más importantes de cada jornada en base a las preferencias del usuario.
+
+## 🛠️ Stack Tecnológico
+
+* **Backend:** Node.js con arquitectura de microservicios.
+* **Frontend:** Next.js (Web) y React Native (Mobile) para compartir lógica de negocio.
+* **IA:** APIs de grandes modelos de lenguaje (OpenAI GPT, Google Gemini) o modelos Open Source (vía Hugging Face, como BART o LLaMA) para el procesamiento de lenguaje natural (NLP), logrando sintetizar eventos y generar resúmenes personalizados según el equipo o liga favorita del usuario.
+* **Integraciones:** APIs de proveedores de datos deportivos en tiempo real y registros históricos (ej. API-Football, Sportmonks o football-data.org).
+
+## 🎨 Prueba de Concepto (PoC)
+
+Visualiza la maqueta del proyecto aquí: [Sports Web App Dashboard – Figma](https://www.figma.com/make/AZHjsOIjtY0gfUZW6YnBHd/Sports-Web-App-Dashboard?p=f&preview-route=%2Fmatch%2F1)
