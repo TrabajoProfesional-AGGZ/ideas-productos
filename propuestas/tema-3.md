@@ -36,3 +36,38 @@ MedTrack permite la persistencia de documentación médica en la nube, garantiza
 ## 🎨 Prueba de Concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Medical Dashboard Design – Figma](https://www.figma.com/make/nKgxDcbyJKpLbE8N26ra4g/Medical-Dashboard-Design?p=f)
+
+## Análisis de las 5Cs
+
+### 1. Compañía
+
+* **Descripción:** X.
+* **Visión:** X.
+* **Misión:** X.
+
+### 2. Colaboradores
+
+X.
+
+### 3. Clientes
+
+X.
+
+### 4. Competidores
+
+X.
+
+### 5. Contexto
+
+| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
+| :--- | :---: | :---: | :---: |
+| **Económico** | ⚪ | ⚪ | ⚪ |
+| **Regulatorio** | ⚪ | ⚪ | ⚪ |
+| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
+| **Tecnológico** | ⚪ | ⚪ | ⚪ |
+| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
+
+> **Guía de colores**
+> * 🟢 **Verde:** Bueno / Favorable.
+> * 🟡 **Amarillo:** Intermedio / Neutral.
+> * 🔴 **Rojo:** Malo / Riesgoso.

@@ -35,38 +35,3 @@ ScoreMaster se posiciona como una alternativa premium que prioriza la usabilidad
 ## 🎨 Prueba de Concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Sports Web App Dashboard – Figma](https://www.figma.com/make/AZHjsOIjtY0gfUZW6YnBHd/Sports-Web-App-Dashboard?p=f&preview-route=%2Fmatch%2F1)
-
-## Análisis de las 5Cs
-
-### 1. Compañía
-
-* **Descripción:** X.
-* **Visión:** X.
-* **Misión:** X.
-
-### 2. Colaboradores
-
-X.
-
-### 3. Clientes
-
-X.
-
-### 4. Competidores
-
-X.
-
-### 5. Contexto
-
-| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
-| :--- | :---: | :---: | :---: |
-| **Económico** | ⚪ | ⚪ | ⚪ |
-| **Regulatorio** | ⚪ | ⚪ | ⚪ |
-| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
-| **Tecnológico** | ⚪ | ⚪ | ⚪ |
-| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
-
-> **Guía de colores**
-> * 🟢 **Verde:** Bueno / Favorable.
-> * 🟡 **Amarillo:** Intermedio / Neutral.
-> * 🔴 **Rojo:** Malo / Riesgoso.
