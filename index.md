@@ -20,3 +20,6 @@ Puedes navegar por las distintas propuestas utilizando el menú lateral, o acced
 3. [**MedTrack:** Sistema integral de seguimiento clínico y gestión de pacientes.](propuestas/tema-3.html)
 4. [**AeroGuard Vision:** Sistema de seguridad de tráfico en pista.](propuestas/tema-4.html)
 5. [**SkyDictate Safety:** Validador inteligente de instrucciones y separación aérea.](propuestas/tema-5.html)
+6. [**DevQuest Onboarding:** Plataforma gamificada de inducción para desarrolladores.](propuestas/tema-6.html)
+7. [**AutoCare Preventivo:** Ecosistema de mantenimiento automotriz preventivo.](propuestas/tema-7.html)
+8. [**SmartPantry Gastronomía:** Optimizador de inventario y recetas gastronómicas.](propuestas/tema-8.html)
