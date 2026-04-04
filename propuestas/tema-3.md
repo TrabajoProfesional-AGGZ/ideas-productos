@@ -22,6 +22,7 @@ MedTrack permite la persistencia de documentación médica en la nube, garantiza
 
 * **Profesionales de la Salud:** Médicos independientes y especialistas.
 * **Instituciones:** Clínicas privadas, sanatorios y Obras Sociales.
+* **Médicos:** Profesionales que requieren una herramienta para gestionar su práctica médica de forma particular.   
 
 ## 📱 Medios de uso
 
@@ -31,13 +32,6 @@ MedTrack permite la persistencia de documentación médica en la nube, garantiza
 ## 🤖 Uso de IA
 
 * **Optimización de Agendas:** Algoritmos para reducir el ausentismo y optimizar los horarios de atención basados en el comportamiento histórico de los pacientes.
-
-## 🛠️ Stack Tecnológico
-
-* **Backend:** Python (FastAPI) por su robustez en el manejo de modelos de IA.
-* **Frontend:** React con bibliotecas de visualización de datos (D3.js o Recharts).
-* **IA:** Librerías de Machine Learning (Scikit-learn, XGBoost) para predecir ausentismos de pacientes, combinadas con motores de optimización (como Google OR-Tools) para la reasignación dinámica y eficiente de la agenda médica.
-* **Integraciones:** Protocolos de interoperabilidad médica (estándares internacionales como HL7 y FHIR) y clientes SOAP/REST para sincronizar datos con los sistemas *legacy* de obras sociales, prepagas o instituciones gubernamentales.
 
 ## 🎨 Prueba de Concepto (PoC)
 

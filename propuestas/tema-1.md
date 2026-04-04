@@ -32,13 +32,6 @@ ScoreMaster se posiciona como una alternativa premium que prioriza la usabilidad
 
 * **Generación de Resúmenes:** Uso de NLP para crear síntesis automáticas de los eventos más importantes de cada jornada en base a las preferencias del usuario.
 
-## 🛠️ Stack Tecnológico
-
-* **Backend:** Node.js con arquitectura de microservicios.
-* **Frontend:** Next.js (Web) y React Native (Mobile) para compartir lógica de negocio.
-* **IA:** APIs de grandes modelos de lenguaje (OpenAI GPT, Google Gemini) o modelos Open Source (vía Hugging Face, como BART o LLaMA) para el procesamiento de lenguaje natural (NLP), logrando sintetizar eventos y generar resúmenes personalizados según el equipo o liga favorita del usuario.
-* **Integraciones:** APIs de proveedores de datos deportivos en tiempo real y registros históricos (ej. API-Football, Sportmonks o football-data.org).
-
 ## 🎨 Prueba de Concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Sports Web App Dashboard – Figma](https://www.figma.com/make/AZHjsOIjtY0gfUZW6YnBHd/Sports-Web-App-Dashboard?p=f&preview-route=%2Fmatch%2F1)

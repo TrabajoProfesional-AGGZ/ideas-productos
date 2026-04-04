@@ -32,13 +32,6 @@ La herramienta consolida datos de diversas fuentes para ofrecer análisis de ren
 
 * **Sentiment Analysis:** Utilización de modelos de procesamiento de lenguaje natural (NLP) para analizar noticias y redes sociales en tiempo real, detectando tendencias de mercado y flujos de opinión que puedan afectar las cotizaciones.
 
-## 🛠️ Stack Tecnológico
-
-* **Backend:** Python (FastAPI) por su robustez en el manejo de modelos de IA.
-* **Frontend:** React con bibliotecas de visualización de datos (D3.js o Recharts).
-* **IA:** TensorFlow o PyTorch para el análisis de sentimientos.
-* **Integraciones:** APIs de terceros (CoinMarketCap, Yahoo Finance, Binance).
-
 ## 🎨 Prueba de Concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](https://www.figma.com/make/1GhGtCxTGD2DdBg4lP3b0C/Fintech-Web-App-Dashboard?p=f)
