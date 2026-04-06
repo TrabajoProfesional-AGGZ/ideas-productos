@@ -8,11 +8,15 @@ nav_order: 3
 
 ## 🎯 Necesidad u oportunidad detectada
 
-El desperdicio de alimentos es un "dolor" crítico que destruye la rentabilidad tanto en los hogares como en pequeños negocios gastronómicos. La falta de control estricto sobre las fechas de caducidad genera mermas constantes de ingredientes costosos.
+El desperdicio de alimentos es un "dolor" crítico que destruye la rentabilidad tanto en los hogares como en pequeños negocios gastronómicos. 
+
+La falta de control estricto sobre las fechas de caducidad genera mermas constantes de ingredientes costosos.
 
 ## 💡 Solución planteada
 
-Una plataforma inteligente de gestión de inventarios que lleva el control de la alacena y sus fechas de caducidad. En lugar de ser solo una planilla de stock, el sistema sugiere dinámicamente el "Menú del Día" o recetas exactas diseñadas específicamente para agotar los ingredientes que están más próximos a vencer, minimizando el desperdicio a cero.
+Una plataforma inteligente de gestión de inventarios que lleva el control de la alacena y sus fechas de caducidad.
+
+En lugar de ser solo una planilla de stock, el sistema sugiere dinámicamente el "Menú del Día" o recetas exactas diseñadas específicamente para agotar los ingredientes que están más próximos a vencer, minimizando el desperdicio a cero.
 
 ## 👥 Clientes objetivos
 

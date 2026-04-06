@@ -12,7 +12,9 @@ Cuando una empresa contrata a un desarrollador Junior o Semi-Senior, la curva de
 
 ## 💡 Solución planteada
 
-Desarrollo de una plataforma SaaS (Software as a Service) donde el proceso de "onboarding" se transforma en un "árbol de habilidades" y misiones interactivas. El nuevo empleado va desbloqueando accesos y subiendo de nivel a medida que completa pequeños *pull requests* de prueba, lee la documentación técnica y aprueba validaciones automáticas, reduciendo la carga sobre el líder técnico.
+Desarrollo de una plataforma SaaS (Software as a Service) donde el proceso de "onboarding" se transforma en un "árbol de habilidades" y misiones interactivas.
+
+El nuevo empleado va desbloqueando accesos y subiendo de nivel a medida que completa pequeños *pull requests* de prueba, lee la documentación técnica y aprueba validaciones automáticas, reduciendo la carga sobre el líder técnico.
 
 ## 👥 Clientes objetivos
 

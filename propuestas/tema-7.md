@@ -12,7 +12,9 @@ El mantenimiento de los vehículos particulares suele ser puramente reactivo. Lo
 
 ## 💡 Solución planteada
 
-Una WebApp que centraliza el mantenimiento del vehículo. Al ingresar el modelo y el kilometraje actual, el sistema cruza la información con los manuales del fabricante para generar un calendario de mantenimiento preventivo. Además, permite digitalizar el historial completo del auto subiendo fotos de las facturas del taller.
+Una WebApp que centraliza el mantenimiento del vehículo. Al ingresar el modelo y el kilometraje actual, el sistema cruza la información con los manuales del fabricante para generar un calendario de mantenimiento preventivo.
+
+Además, permite digitalizar el historial completo del auto subiendo fotos de las facturas del taller.
 
 ## 👥 Clientes objetivos
 
