@@ -36,32 +36,35 @@ Su diferencial radica en proyectar el presupuesto del mes siguiente ajustando lo
 ## Análisis de las 5Cs
 
 ### 1. Compañía
-
-* **Descripción:** X.
-* **Visión:** X.
-* **Misión:** X.
+* **Descripción:** Startup de fintech doméstica que ofrece una plataforma colaborativa para la gestión integral de gastos del hogar, con foco en la división automática de cuentas y proyección presupuestaria ajustada por inflación.
+* **Visión:** Ser la plataforma de referencia en Argentina para la administración financiera del hogar, convirtiendo la economía doméstica en algo simple, transparente y predecible.
+* **Misión:** Ayudar a hogares, parejas y roommates a organizar sus finanzas compartidas eliminando conflictos, atrasos y sorpresas, mediante tecnología accesible e inteligente.
 
 ### 2. Colaboradores
-
-X.
-
+* **Proveedores de datos macroeconómicos:** INDEC, bancos centrales y APIs de inflación para alimentar los modelos predictivos.
+* **Procesadores de pagos:** Integración con Mercado Pago, transferencias bancarias o CBU para saldar deudas entre convivientes.
+* **Proveedores de infraestructura cloud:** AWS, GCP o Azure para hosting, procesamiento de IA y OCR.
+* **App Stores:** Google Play y Apple App Store como canales de distribución principales.
+  
 ### 3. Clientes
-
-X.
+* **Familias**: hogares con múltiples fuentes de gasto. Brinda planificación, recordatorios y control mensual
+* **Parejas**: adultos jóvenes con economía comppartida. Brinda visibilidad conjunta del presupuesto
+* **Roommates**: estudiantes o jóvenes profesionales que comparten vivienda y gastos. Brinda una división equitativa y transparente de las cuentas
 
 ### 4. Competidores
-
-X.
+* **Splitwise**: aplicación de división de gastos. Tiene versión gratis y premium. 
+* **Excel / Google Sheets**: herramienta genérica para seguimiento de gastos, no es dinámica.
+* **Apps bancarias**: finanzas personales. No son compartidas ni tienen foco en el hogar.
 
 ### 5. Contexto
 
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
 | :--- | :---: | :---: | :---: |
-| **Económico** | ⚪ | ⚪ | ⚪ |
-| **Regulatorio** | ⚪ | ⚪ | ⚪ |
-| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
-| **Tecnológico** | ⚪ | ⚪ | ⚪ |
-| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
+| **Económico** | 🟢 | 🟡 | 🟡 |
+| **Regulatorio** | 🟢 | 🟡 | 🟡 |
+| **Social / Cultural** | 🟢 | 🟢 | 🟢 |
+| **Tecnológico** | 🟢 | 🟢 | 🟢 |
+| **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
 
 > **Guía de colores**
 > * 🟢 **Verde:** Bueno / Favorable.
