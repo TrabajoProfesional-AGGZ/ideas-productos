@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1. NutriPlan
-nav_order: 1
+title: 9. NutriPlan
+nav_order: 10
 ---
 
 # NutriPlan: Planificador Gastronómico Inteligente y Adaptativo

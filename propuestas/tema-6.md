@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1. DevQuest Onboarding
-nav_order: 1
+title: 6. DevQuest Onboarding
+nav_order: 7
 ---
 
 # DevQuest: Plataforma Gamificada de "Onboarding" para Developers

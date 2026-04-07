@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2. ServiHogar
-nav_order: 2
+title: 10. ServiHogar
+nav_order: 11
 ---
 
 # ServiHogar: Red de Profesionales de Mantenimiento y Reparaciones

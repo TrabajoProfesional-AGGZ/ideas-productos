@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3. SmartPantry Gastronomía
-nav_order: 3
+title: 8. SmartPantry Gastronomía
+nav_order: 9
 ---
 
 # SmartPantry: Optimizador de Inventario y Recetas Gastronómicas

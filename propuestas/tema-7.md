@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2. AutoCare Preventivo
-nav_order: 2
+title: 7. AutoCare Preventivo
+nav_order: 8
 ---
 
 # AutoCare: Ecosistema de Mantenimiento Automotriz Preventivo
