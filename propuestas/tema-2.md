@@ -35,3 +35,38 @@ La herramienta consolida datos de diversas fuentes para ofrecer análisis de ren
 ## 🎨 Prueba de Concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](https://www.figma.com/make/1GhGtCxTGD2DdBg4lP3b0C/Fintech-Web-App-Dashboard?p=f)
+
+## Análisis de las 5Cs
+
+### 1. Compañía
+
+* **Descripción:** X.
+* **Visión:** X.
+* **Misión:** X.
+
+### 2. Colaboradores
+
+X.
+
+### 3. Clientes
+
+X.
+
+### 4. Competidores
+
+X.
+
+### 5. Contexto
+
+| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
+| :--- | :---: | :---: | :---: |
+| **Económico** | ⚪ | ⚪ | ⚪ |
+| **Regulatorio** | ⚪ | ⚪ | ⚪ |
+| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
+| **Tecnológico** | ⚪ | ⚪ | ⚪ |
+| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
+
+> **Guía de colores**
+> * 🟢 **Verde:** Bueno / Favorable.
+> * 🟡 **Amarillo:** Intermedio / Neutral.
+> * 🔴 **Rojo:** Malo / Riesgoso.
