@@ -32,3 +32,38 @@ Su diferencial radica en proyectar el presupuesto del mes siguiente ajustando lo
 
 * **Proyecciones Inflacionarias:** Algoritmos de machine learning que analizan el histórico de aumentos en los servicios del usuario y los cruzan con datos macroeconómicos para predecir cuánto costarán las expensas o la luz el próximo mes.
 * **Reconocimiento de Tickets (OCR con IA):** Capacidad de sacar una foto a un ticket de supermercado y que la IA despiece automáticamente qué ítems son de uso común (ej. limpieza) y cuáles personales, asignando los montos correspondientes.
+
+## Análisis de las 5Cs
+
+### 1. Compañía
+
+* **Descripción:** X.
+* **Visión:** X.
+* **Misión:** X.
+
+### 2. Colaboradores
+
+X.
+
+### 3. Clientes
+
+X.
+
+### 4. Competidores
+
+X.
+
+### 5. Contexto
+
+| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
+| :--- | :---: | :---: | :---: |
+| **Económico** | ⚪ | ⚪ | ⚪ |
+| **Regulatorio** | ⚪ | ⚪ | ⚪ |
+| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
+| **Tecnológico** | ⚪ | ⚪ | ⚪ |
+| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
+
+> **Guía de colores**
+> * 🟢 **Verde:** Bueno / Favorable.
+> * 🟡 **Amarillo:** Intermedio / Neutral.
+> * 🔴 **Rojo:** Malo / Riesgoso.

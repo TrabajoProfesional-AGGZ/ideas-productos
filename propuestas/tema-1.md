@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. ScoreMaster (Promedios 2.0)
+title: 1. ScoreMaster
 nav_order: 2
 ---
 

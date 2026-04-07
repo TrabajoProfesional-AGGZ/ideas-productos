@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. MedTrack (Salud)
+title: 3. MedTrack
 nav_order: 4
 ---
 

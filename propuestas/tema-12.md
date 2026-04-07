@@ -32,3 +32,38 @@ Permite filtrar por tipo de producto, proximidad geográfica y envía notificaci
 
 * **Scraping y Normalización de Datos:** Uso de IA para extraer, limpiar y estandarizar los nombres de los productos de diferentes cadenas (ej. entender que "Coca Cola 1.5L" en el súper A es lo mismo que "Gaseosa Cola 1500ml marca Coca" en el súper B).
 * **Motor de Alertas Inteligentes:** Algoritmo que aprende la frecuencia de consumo del usuario (ej. compra pañales cada 15 días) y dispara notificaciones de descuentos justo en el momento en que se predice que el usuario necesita reponer stock.
+
+## Análisis de las 5Cs
+
+### 1. Compañía
+
+* **Descripción:** X.
+* **Visión:** X.
+* **Misión:** X.
+
+### 2. Colaboradores
+
+X.
+
+### 3. Clientes
+
+X.
+
+### 4. Competidores
+
+X.
+
+### 5. Contexto
+
+| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
+| :--- | :---: | :---: | :---: |
+| **Económico** | ⚪ | ⚪ | ⚪ |
+| **Regulatorio** | ⚪ | ⚪ | ⚪ |
+| **Social / Cultural** | ⚪ | ⚪ | ⚪ |
+| **Tecnológico** | ⚪ | ⚪ | ⚪ |
+| **Político / Ambiental** | ⚪ | ⚪ | ⚪ |
+
+> **Guía de colores**
+> * 🟢 **Verde:** Bueno / Favorable.
+> * 🟡 **Amarillo:** Intermedio / Neutral.
+> * 🔴 **Rojo:** Malo / Riesgoso.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. CryptoWealth (Inversiones)
+title: 2. CryptoWealth
 nav_order: 3
 ---
 
