@@ -25,7 +25,7 @@ Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](h
 ## Análisis de las 5Cs
 ### 1. Compañía
 * **Descripción:** Empresa de tecnología financiera (FinTech) que ofrece una plataforma centralizada en la nube para la gestión integral de activos digitales y tradicionales. CryptoWealth consolida información de exchanges, brokers y wallets, e incorpora Inteligencia Artificial basada en procesamiento de lenguaje natural (NLP) para anticipar movimientos del mercado a partir del análisis de noticias y redes sociales.
-* **Visión:** Convertirse en el estándar global de gestión patrimonial digital, permitiendo que cualquier inversor —desde el principiante hasta el asesor profesional— tenga una visión unificada, inteligente y predictiva de su cartera, eliminando la fragmentación entre el mundo cripto y las finanzas tradicionales.
+* **Visión:** Convertirse en el estándar global de gestión patrimonial digital, permitiendo que cualquier inversor desde el principiante hasta el asesor profesional tenga una visión unificada, inteligente y predictiva de su cartera, eliminando la fragmentación entre el mundo cripto y las finanzas tradicionales.
 * **Misión:** Brindar a inversores y asesores financieros herramientas intuitivas y potenciadas por IA que les permitan tomar decisiones informadas, anticipar tendencias del mercado y optimizar el rendimiento de sus carteras, consolidando todos sus activos en un único lugar seguro y accesible.
 ### 2. Colaboradores
 * **Proveedores de infraestructura y tecnología:** Servicios Cloud (AWS, Google Cloud, Azure) que garanticen alta disponibilidad, escalabilidad y seguridad para el manejo de datos financieros sensibles.
@@ -52,6 +52,7 @@ Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](h
 | **Social / Cultural** | 🟢 | 🟢 | 🟢 |
 | **Tecnológico** | 🟢 | 🟢 | 🟢 |
 | **Político / Ambiental** | 🟡 | 🟡 | 🟢 |
+
 > **Guía de colores**
 > * 🟢 **Verde:** Bueno / Favorable.
 > * 🟡 **Amarillo:** Intermedio / Neutral.
