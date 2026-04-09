@@ -3,3 +3,6 @@ description: Análisis, evaluación y resumen de los productos candidatos para e
 theme: just-the-docs
 
 url: https://trabajoprofesional-aggz.github.io/ideas-productos/
+
+baseurl: "/ideas-productos"
+favicon_ico: "assets/images/favicon.png"
