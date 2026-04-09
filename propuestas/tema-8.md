@@ -8,59 +8,128 @@ nav_order: 9
 
 ## 🎯 Necesidad u oportunidad detectada
 
-El desperdicio de alimentos es un "dolor" crítico que destruye la rentabilidad tanto en los hogares como en pequeños negocios gastronómicos. 
+El desperdicio de alimentos representa una pérdida directa de rentabilidad tanto en hogares como en pequeños negocios gastronómicos.
 
-La falta de control estricto sobre las fechas de caducidad genera mermas constantes de ingredientes costosos.
+La falta de control sobre fechas de caducidad, rotación de stock y planificación de consumo genera mermas constantes, especialmente en ingredientes perecederos de alto costo.
+
+Además, la toma de decisiones sobre qué cocinar o comprar suele ser reactiva y no basada en datos.
+
+---
 
 ## 💡 Solución planteada
 
-Una plataforma inteligente de gestión de inventarios que lleva el control de la alacena y sus fechas de caducidad.
+SmartPantry es una plataforma inteligente de gestión de inventarios que permite controlar en tiempo real los insumos disponibles y sus fechas de vencimiento.
 
-En lugar de ser solo una planilla de stock, el sistema sugiere dinámicamente el "Menú del Día" o recetas exactas diseñadas específicamente para agotar los ingredientes que están más próximos a vencer, minimizando el desperdicio a cero.
+A diferencia de una planilla tradicional, el sistema:
+
+- Sugiere dinámicamente recetas accionables basadas en los ingredientes próximos a vencer.
+- Prioriza el uso eficiente del stock para minimizar desperdicios.
+- Asiste en la planificación de compras mediante predicción de demanda.
+
+El objetivo es transformar el inventario en una fuente activa de decisiones operativas.
+
+---
 
 ## 👥 Clientes objetivos
 
-* **Pequeños Restaurantes, Bares y Servicios de Viandas:** Negocios que necesitan maximizar su margen de ganancia rotando eficientemente la mercadería.
-* **Instituciones con Comedores:** Colegios, hospitales o comedores corporativos que manejan grandes volúmenes de alimentos perecederos.
+### 🎯 Segmento inicial (Early Adopters)
+- **Pequeños restaurantes y servicios de viandas** con alta rotación de insumos perecederos y necesidad de optimizar márgenes.
+
+### 📈 Expansión
+
+- **B2B (Gastronomía Profesional):**
+  - Restaurantes
+  - Bares
+  - Comedores institucionales (colegios, hospitales, empresas)
+
+- **B2C (Hogares):**
+  - Familias interesadas en reducir desperdicio
+  - Usuarios que buscan planificación de comidas basada en stock disponible
+
+---
 
 ## 📱 Medios de uso
 
-* **App Móvil / Tablet:** Interfaz ágil diseñada para ser usada dentro de la cocina o el almacén, facilitando la carga rápida de insumos.
-* **Dashboard Web:** Para el gerente o dueño, donde visualiza reportes financieros de mermas ahorradas y proyecciones de compras.
+- **App móvil / tablet:**
+  - Uso operativo en cocina o depósito
+  - Carga rápida de insumos
+  - Visualización de alertas de vencimiento
+
+- **Dashboard web:**
+  - Reportes de mermas evitadas
+  - Análisis de consumo
+  - Proyección de compras
+
+---
 
 ## 🤖 Uso de IA
 
-* **Generación Dinámica de Recetas (LLMs):** Integración con modelos de lenguaje natural para cruzar el stock disponible y generar instrucciones culinarias viables, estructuradas y creativas en tiempo real.
-* **Predicción de Demanda:** Algoritmos que analizan el historial de ventas y estacionalidad para sugerir órdenes de compra precisas, evitando el sobre-stock.
+- **Generación de recetas:**
+  Modelos de lenguaje que generan recetas viables y estructuradas en base al stock disponible.
+
+- **Motor de priorización:**
+  Algoritmos que ordenan ingredientes según proximidad de vencimiento e impacto económico.
+
+- **Predicción de demanda:**
+  Modelos que analizan historial de consumo, estacionalidad y patrones de uso para sugerir compras óptimas.
+
+---
 
 ## Análisis de las 5Cs
 
 ### 1. Compañía
 
-* **Descripción:** Empresa de tecnología aplicada a la gastronomía que ofrece una plataforma inteligente de gestión de inventarios y generación de recetas para minimizar el desperdicio de alimentos en hogares y pequeños negocios gastronómicos.
-* **Visión:** Erradicar el desperdicio de alimentos en la industria gastronómica.
-* **Misión:** Proveer a las casas y los negocios gastronómicos una herramienta inteligente, predictiva y sin fricción que optimice el uso de sus inventarios y sugiera recetas en tiempo real.
+- **Descripción:** Startup tecnológica enfocada en la optimización del uso de inventarios gastronómicos mediante inteligencia artificial.
+
+- **Visión:** Reducir significativamente el desperdicio de alimentos en la industria gastronómica.
+
+- **Misión:** Proveer herramientas inteligentes y simples que permitan tomar decisiones basadas en el estado real del inventario.
+
+---
 
 ### 2. Colaboradores
 
-1. **Distribuidores de alimentos:** Alianzas con proveedores de insumos para integrar sugerencias de compra basadas en el stock y la demanda.
-2. **Instituciones educativas:** Colaboración con escuelas de gastronomía para validar la calidad de las recetas generadas y adaptar el sistema a las necesidades reales de la cocina profesional.
-3. **Organizaciones de sostenibilidad:** Alianzas con ONGs y entidades que promueven la reducción del desperdicio de alimentos para fortalecer el impacto social del proyecto.
+- **Proveedores de alimentos:**
+  - Integración para sugerencias de compra automatizadas
+  - Potencial modelo de comisión o marketplace
+
+- **Escuelas de gastronomía:**
+  - Validación de recetas generadas
+  - Generación de contenido culinario de calidad
+
+- **Organizaciones de sostenibilidad:**
+  - Posicionamiento de marca
+  - Acceso a programas e iniciativas de impacto ambiental
+
+---
 
 ### 3. Clientes
 
-1. **B2B (Gastronomía Profesional):** Pequeños restaurantes, bares, servicios de viandas y comedores institucionales que buscan optimizar su inventario y reducir mermas.
+1. **B2B (Gastronomía Profesional):** Pequeños restaurantes, bares, servicios de viandas y comedores institucionales que buscan optimizar su inventario y reducir mermas. 2. 
 2. **B2C (Hogares):** Familias y personas que desean gestionar eficientemente su alacena, reducir el desperdicio de alimentos y recibir sugerencias de recetas personalizadas basadas en los ingredientes disponibles.
+---
 
 ### 4. Competidores
 
-* **Competencia Directa/Indirecta:** Sistemas de gestión y ERPs para restaurantes (que son excelentes para facturación, pero carecen de motores predictivos o generativos de IA para el manejo inteligente de mermas) y aplicaciones globales de FoodTech que no están adaptadas al contexto o integraciones locales.
-* **El "Status Quo":** La mayoría de los hogares y pequeños negocios gastronómicos siguen utilizando métodos manuales (listas de papel, hojas de cálculo) para gestionar su inventario, lo que resulta ineficiente y propenso a errores.
+- **Competencia directa:**
+  - Sistemas de gestión gastronómica (ERPs)
+    - Fortalezas: integración operativa, adopción existente
+    - Debilidad: falta de inteligencia sobre el uso del stock
+
+- **Competencia indirecta:**
+  - Apps de recetas
+  - Herramientas de gestión manual (Excel, papel)
+
+- **Status quo:**
+  - Métodos manuales altamente arraigados
+  - Baja digitalización en pequeños negocios
+
+---
 
 ### 5. Contexto
 
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
-| :--- | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | 
 | **Económico** | 🟢 | 🟢 | 🟢 |
 | **Regulatorio** | 🟢 | 🟢 | 🟢 |
 | **Social / Cultural** | 🟡 | 🟡 | 🟢 |
