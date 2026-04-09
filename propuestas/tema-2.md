@@ -44,6 +44,7 @@ Visualiza la maqueta del proyecto aquí: [Fintech Web App Dashboard – Figma](h
 * **Competidores indirectos (Plataformas de trading con analytics):** Exchanges y brokers que incorporan dashboards propios (Binance, eToro, Coinbase), aunque limitados a sus propios activos.
 * **Competidores en análisis predictivo:** Herramientas especializadas en sentiment analysis como Santiment, LunarCrush y The TIE, enfocadas casi exclusivamente al mercado cripto.
 * **Competidores sustitutos (El Status Quo):** Planillas de Excel manuales, anotaciones personales y el monitoreo individual plataforma por plataforma, que sigue siendo la práctica más extendida entre los inversores retail.
+  
 ### 5. Contexto
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
 | :--- | :---: | :---: | :---: |
