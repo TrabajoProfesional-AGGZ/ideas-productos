@@ -25,5 +25,5 @@ Puedes navegar por las distintas propuestas utilizando el menú lateral, o acced
 8. [**SmartPantry Gastronomía:** Optimizador de inventario y recetas gastronómicas.](propuestas/tema-8.html)
 9. [**NutriPlan:** Planificador gastronómico inteligente y adaptativo.](propuestas/tema-9.html)
 10. [**ServiHogar:** Red de profesionales de mantenimiento y reparaciones.](propuestas/tema-10.html)
-11. [**CuentasClaras:** Gestión integral y predictiva de gastos del hogar.](propuestas/tema-11.html)
+11. [**Cuentas Claras:** Gestión integral y predictiva de gastos del hogar.](propuestas/tema-11.html)
 12. [**MarketScout:** Comparador y optimizador de compras en supermercados.](propuestas/tema-12.html)

@@ -1,68 +1,90 @@
 ---
 layout: default
-title: 11. CuentasClaras
+title: 11. Cuentas Claras
 nav_order: 12
 ---
 
-# CuentasClaras: Gestión Integral y Predictiva de Gastos del Hogar
+# Cuentas Claras: Gestión Integral, Predictiva y Automatizada del Dinero
 
 ## 🎯 Necesidad u oportunidad detectada
 
-La administración financiera dentro de un hogar (especialmente cuando se comparte entre convivientes o roommates) es un foco constante de conflicto y desorganización.
+La administración financiera dentro de un hogar (Especialmente cuando se comparte entre convivientes o roommates) es un foco constante de conflicto y desorganización. 
 
-La mezcla de gastos fijos (expensas, alquiler), gastos espontáneos y el impacto constante de la inflación, hace que la proyección presupuestaria mensual sea una tarea casi imposible con una simple hoja de cálculo.
+A esta complejidad de dividir gastos, se le suma el caos de la gestión financiera personal: El seguimiento manual de múltiples cuentas, la dificultad de separar dinero para ahorros o gastos fijos, el olvido de vencimientos de servicios importantes (Como impuestos o seguros) y el impacto constante de la inflación.
+
+Todo esto hace que la proyección presupuestaria mensual y la automatización del dinero sean tareas casi imposibles con una simple hoja de cálculo.
 
 ## 💡 Solución planteada
 
-Una plataforma financiera colaborativa diseñada exclusivamente para la economía del hogar. Permite centralizar y categorizar gastos (fijos y espontáneos), dividir cuentas automáticamente entre usuarios de una misma casa, marcar pagos realizados y configurar recordatorios de vencimiento.
+Una plataforma financiera colaborativa e integral diseñada para automatizar la economía personal y del hogar. Permite centralizar y categorizar gastos (Fijos y espontáneos), y dividir cuentas automáticamente entre usuarios de una misma casa de manera simple y transparente.
 
-Su diferencial radica en proyectar el presupuesto del mes siguiente ajustando los valores automáticamente según índices inflacionarios.
+### Como sistema integral de gestión, la app permite:
+
+* **Enrutamiento inteligente de fondos:** Gestión de múltiples cuentas del usuario para programar débitos y redirigir montos (Ej. transferencias automáticas a una cuenta de ahorro compartido, o a una cuenta exclusiva para gastos fijos).
+* **Pago integrado y recordatorios:** Conexión con sistemas de terceros para abonar directamente desde la app servicios como impuestos, patentes o seguros, apoyado por un sistema de alertas para evitar vencimientos.
+* **Control de presupuesto en tiempo real:** Previsualización del saldo mensual restante para saber exactamente cuánto margen queda hasta el fin del ciclo en cada categoría de gasto.
+* **División de gastos compartidos:** Automatización de la división de cuentas entre convivientes, con asignación automática de montos según categorías (Por ejemplo, Gastos comunes como luz o expensas, y gastos personales como compras de supermercado).
+* **Dashboards analíticos:** Vistas detalladas recientes e históricas para analizar el consumo por secciones específicas.
+* **Proyección inteligente:** Proyectar el presupuesto del mes siguiente ajustando los valores automáticamente según índices inflacionarios.
 
 ## 👥 Clientes objetivos
 
-* **Compañeros de piso (Roommates):** Estudiantes o jóvenes profesionales que necesitan dividir expensas y compras de supermercado de forma equitativa y transparente.
-* **Familias y Parejas:** Hogares que buscan profesionalizar sus finanzas, tener visibilidad de en qué se va el dinero y evitar atrasos en los pagos de servicios.
+* **Jóvenes:** Estudiantes o profesionales jóvenes que comparten vivienda y necesitan una solución para dividir gastos de forma justa, mientras gestionan sus finanzas personales en la misma plataforma.
+* **Adultos:** Personas que conviven en pareja y necesitan una solución para organizar sus finanzas domésticas de forma clara, automatizada y sin conflictos. 
+* **Familias:** Hogares que buscan profesionalizar sus finanzas, automatizar el aporte a cuentas de ahorro en común, tener visibilidad del presupuesto y evitar atrasos en pagos críticos.
 
 ## 📱 Medios de uso
 
-* **App Móvil:** Para el registro instantáneo del gasto espontáneo (ej. "Pasé por la panadería") y visualización rápida de saldos deudores entre convivientes.
-* **Dashboard Web:** Para el análisis financiero a fin de mes, revisión de gráficos de consumo y planificación de gastos fijos a largo plazo.
+* **App Móvil:** Para el registro instantáneo del gasto espontáneo, visualización rápida del presupuesto restante en el mes, pago rápido de servicios integrados (Impuestos, seguros, etc.) y revisión de saldos deudores entre convivientes.
+* **Dashboard Web:** Para el análisis financiero profundo a fin de mes, revisión de dashboards históricos por categoría, configuración de reglas de enrutamiento de dinero entre cuentas y planificación a largo plazo.
 
 ## 🤖 Uso de IA
 
 * **Proyecciones Inflacionarias:** Algoritmos de machine learning que analizan el histórico de aumentos en los servicios del usuario y los cruzan con datos macroeconómicos para predecir cuánto costarán las expensas o la luz el próximo mes.
 * **Reconocimiento de Tickets (OCR con IA):** Capacidad de sacar una foto a un ticket de supermercado y que la IA despiece automáticamente qué ítems son de uso común (ej. limpieza) y cuáles personales, asignando los montos correspondientes.
 
+## 💸 Modelo de Monetización
+
+* **Modelo Freemium:** * **Versión Gratuita:** Funcionalidades básicas de división de gastos y seguimiento limitadas, sostenida mediante la integración de anuncios publicitarios. Se utiliza como embudo de conversión para mostrar el valor de la automatización.
+* **Versión Premium (Paga):** Experiencia libre de anuncios con acceso total a las funcionalidades avanzadas (Pago de servicios a terceros, dashboards históricos completos, etc.).
+
 ## Análisis de las 5Cs
 
 ### 1. Compañía
-* **Descripción:** Startup de fintech doméstica que ofrece una plataforma colaborativa para la gestión integral de gastos del hogar, con foco en la división automática de cuentas y proyección presupuestaria ajustada por inflación.
-* **Visión:** Ser la plataforma de referencia en Argentina para la administración financiera del hogar, convirtiendo la economía doméstica en algo simple, transparente y predecible.
-* **Misión:** Ayudar a hogares, parejas y roommates a organizar sus finanzas compartidas eliminando conflictos, atrasos y sorpresas, mediante tecnología accesible e inteligente.
+* **Descripción:** Startup de fintech doméstica que desarrolla un ecosistema integral para la gestión, automatización y proyección del dinero. La plataforma soluciona la fricción financiera a través de cuatro pilares fundamentales:
+  * **Gestión Colaborativa:** Digitaliza y automatiza la división de cuentas del hogar entre roommates, parejas o familias, separando claramente los gastos comunes de los individuales de forma equitativa.
+  * **Enrutamiento Financiero:** Permite la orquestación de múltiples cuentas del usuario, habilitando la creación de reglas para redirigir fondos automáticamente (por ejemplo, derivar un porcentaje del sueldo a un pozo de ahorro compartido o separar el dinero exacto para gastos fijos mensuales).
+  * **Centralización de Pagos y Alertas:** Actúa como un hub operativo al integrarse con servicios de terceros, permitiendo abonar impuestos, patentes y seguros directamente desde la interfaz, respaldado por un sistema de recordatorios preventivos que erradica los vencimientos impagos.
+  * **Control Presupuestario Dinámico:** Ofrece visibilidad total del flujo de caja mediante dashboards interactivos que muestran el saldo restante en tiempo real. El sistema ajusta y proyecta los presupuestos futuros tomando en cuenta la variación de precios por inflación y los patrones de consumo históricos del usuario.
+* **Visión:** Ser la plataforma de referencia en Argentina (Y luego en Latinoamérica) para la administración financiera automatizada, convirtiendo la economía personal y doméstica en un ecosistema simple, interconectado y predecible.
+* **Misión:** Empoderar a individuos y hogares para que tomen el control total de su dinero. Buscamos eliminar los conflictos por gastos compartidos, erradicar la carga mental de los vencimientos y automatizar los procesos de pago y ahorro mediante tecnología accesible e intuitiva.
 
 ### 2. Colaboradores
+* **Entidades de cobro y servicios de terceros:** Integraciones API con entes gubernamentales o privados (Por ejemplo, sistemas de impuestos, aseguradoras) para permitir el pago directo desde la app.
+* **Redes de publicidad (Ad Networks):** Google AdMob u otros proveedores para monetizar la versión gratuita de la plataforma.
 * **Proveedores de datos macroeconómicos:** INDEC, bancos centrales y APIs de inflación para alimentar los modelos predictivos.
-* **Procesadores de pagos:** Integración con Mercado Pago, transferencias bancarias o CBU para saldar deudas entre convivientes.
+* **Procesadores de pagos:** Integración con Mercado Pago, transferencias bancarias o CBU para saldar deudas entre convivientes y enrutar dinero entre cuentas propias.
 * **Proveedores de infraestructura cloud:** AWS, GCP o Azure para hosting, procesamiento de IA y OCR.
 * **App Stores:** Google Play y Apple App Store como canales de distribución principales.
   
 ### 3. Clientes
-* **Familias**: hogares con múltiples fuentes de gasto. Brinda planificación, recordatorios y control mensual
-* **Parejas**: adultos jóvenes con economía comppartida. Brinda visibilidad conjunta del presupuesto
-* **Roommates**: estudiantes o jóvenes profesionales que comparten vivienda y gastos. Brinda una división equitativa y transparente de las cuentas
+* **Familias**: Hogares con múltiples fuentes de gasto. Valoran la automatización de pagos fijos, la claridad en los dashboards históricos y los recordatorios para que nada se venza.
+* **Parejas**: Adultos con economía compartida. Buscan visibilidad conjunta del presupuesto, previsualización de saldo restante y facilidad para aportar a cuentas de ahorro mutuo.
+* **Roommates**: Estudiantes o jóvenes profesionales. Su prioridad es la división equitativa de cuentas cotidianas y la independencia para gestionar el resto de sus ingresos personales en la misma plataforma.
+* **Individuos**: Personas que gestionan su economía personal sin convivientes. Necesitan una solución para organizar sus finanzas de forma clara y automatizada.
 
 ### 4. Competidores
-* **Splitwise**: aplicación de división de gastos. Tiene versión gratis y premium. 
-* **Excel / Google Sheets**: herramienta genérica para seguimiento de gastos, no es dinámica.
-* **Apps bancarias**: finanzas personales. No son compartidas ni tienen foco en el hogar.
+* **Splitwise**: Aplicación de división de gastos. Tiene versión gratis y premium, pero carece de automatización de pagos personales, proyecciones por inflación y gestión multi-cuenta.
+* **Excel / Google Sheets**: Herramienta genérica para seguimiento de gastos, requiere carga manual constante, no es dinámica ni ejecuta pagos.
+* **Apps bancarias**: Finanzas personales. No están preparadas para la gestión colaborativa del hogar ni ofrecen integraciones predictivas cruzadas con inflación.
 
 ### 5. Contexto
 
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
 | :--- | :---: | :---: | :---: |
-| **Económico** | 🟢 | 🟡 | 🟡 |
+| **Económico** | 🟢 | 🟡 | 🟢 |
 | **Regulatorio** | 🟢 | 🟡 | 🟡 |
-| **Social / Cultural** | 🟢 | 🟢 | 🟢 |
+| **Social / Cultural** | 🟡 | 🟢 | 🟢 |
 | **Tecnológico** | 🟢 | 🟢 | 🟢 |
 | **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
 
