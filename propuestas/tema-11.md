@@ -40,6 +40,7 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 
 ## 🤖 Uso de IA
 
+* **Recomendaciones acerca de distribución de bienes:** Algoritmos de machine learning que analizan el patrón de consumo del usuario para recomendar la mejor distribución de gastos entre categorías (Ej. Cuánto destinar a gastos fijos, cuánto a ahorro, cuánto a gastos personales) y sugerir ajustes automáticos en función de la evolución del consumo.
 * **Proyecciones Inflacionarias:** Algoritmos de machine learning que analizan el histórico de aumentos en los servicios del usuario y los cruzan con datos macroeconómicos para predecir cuánto costarán las expensas o la luz el próximo mes.
 * **Reconocimiento de Tickets (OCR con IA):** Capacidad de sacar una foto a un ticket de supermercado y que la IA despiece automáticamente qué ítems son de uso común (ej. limpieza) y cuáles personales, asignando los montos correspondientes.
 
