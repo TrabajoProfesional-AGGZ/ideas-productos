@@ -79,11 +79,9 @@ El objetivo es transformar el inventario en una fuente activa de decisiones oper
 
 ### 1. Compañía
 
-- **Descripción:** Startup tecnológica enfocada en la optimización del uso de inventarios gastronómicos mediante inteligencia artificial.
-
-- **Visión:** Reducir significativamente el desperdicio de alimentos en la industria gastronómica.
-
-- **Misión:** Proveer herramientas inteligentes y simples que permitan tomar decisiones basadas en el estado real del inventario.
+* **Descripción:** Startup de tecnología gastronómica (FoodTech) que ofrece una plataforma inteligente de gestión de inventarios y optimización de recetas para el sector gastronómico. Nuestra solución se enfoca en transformar la forma en que los restaurantes y hogares gestionan sus insumos, utilizando inteligencia artificial para reducir el desperdicio de alimentos, mejorar la rentabilidad y facilitar la toma de decisiones operativas. Con un equipo multidisciplinario apasionado por la innovación culinaria y tecnológica, buscamos ser el aliado estratégico de nuestros clientes en su camino hacia una gastronomía más eficiente y sostenible.
+* **Visión:** Ser la plataforma líder en Latinoamérica para la gestión inteligente de inventarios gastronómicos, ayudando a restaurantes y hogares a reducir el desperdicio de alimentos y optimizar su rentabilidad.
+* **Misión:** Proveer a los profesionales de la gastronomía y a los hogares una herramienta inteligente que automatice la gestión de inventarios, sugiera recetas basadas en el stock disponible y prediga las necesidades de compra, contribuyendo a una gastronomía más eficiente y sostenible.
 
 ---
 
