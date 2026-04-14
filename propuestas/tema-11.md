@@ -111,7 +111,7 @@ Al ser una solución 100% digital, la "plaza" se define por los canales de distr
 - La cantidad de usuarios Premium multiplicada por la tarifa mensual del servicio.
 - La cantidad de usuarios gratuitos multiplicada por el ingreso promedio por usuario generado a través de la visualización de anuncios (ARPU publicitario). 
 
-$$Project Total Income = \sum_{k=1}^n (p_{premium\_k} * q_{premium\_k}) + (p_{ads\_k} * q_{free\_k})$$
+$$\text{Project Total Income} = \sum_{k=1}^n (p_{premium_k} * q_{premium_k}) + (p_{ads_k} * q_{free_k})$$
 
 ### Precio
 
