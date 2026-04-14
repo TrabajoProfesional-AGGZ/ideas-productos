@@ -27,3 +27,4 @@ Puedes navegar por las distintas propuestas utilizando el menú lateral, o acced
 10. [**ServiHogar:** Red de profesionales de mantenimiento y reparaciones.](propuestas/tema-10.html)
 11. [**Cuentas Claras:** Gestión integral y predictiva de gastos del hogar.](propuestas/tema-11.html)
 12. [**MarketScout:** Comparador y optimizador de compras en supermercados.](propuestas/tema-12.html)
+13. [**SocioUnido:** Plataforma inteligente de gestión y fidelización deportiva.](propuestas/tema-13.html)

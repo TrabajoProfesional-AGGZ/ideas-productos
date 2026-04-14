@@ -68,10 +68,14 @@ Estrategia del producto:
 | **Económico** | 🟡 | 🟢 | 🟢 |
 | **Regulatorio** | 🟢 | 🟢 | 🟢 |
 | **Social / Cultural** | 🟢 | 🟢 | 🟢 |
-| **Tecnológico** | 🟢 | 🟢 | 🟢 |
+| **Tecnológico** | 🟡 | 🟢 | 🟢 |
 | **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
 
 > **Guía de colores**
 > * 🟢 **Verde:** Bueno / Favorable.
 > * 🟡 **Amarillo:** Intermedio / Neutral.
 > * 🔴 **Rojo:** Malo / Riesgoso.
+
+## Análisis de las 4Ps
+
+X.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 13. SocioUnido SportTech
+title: 13. SocioUnido
 nav_order: 14
 ---
 
@@ -67,11 +67,15 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 | :--- | :---: | :---: | :---: |
 | **Económico** | 🟡 | 🟢 | 🟢 |
 | **Regulatorio** | 🟢 | 🟢 | 🟢 |
-| **Social / Cultural** | 🟢 | 🟢 | 🟢 |
-| **Tecnológico** | 🟢 | 🟢 | 🟢 |
+| **Social / Cultural** | 🟡 | 🟢 | 🟢 |
+| **Tecnológico** | 🟡 | 🟢 | 🟢 |
 | **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
 
 > **Guía de colores**
 > * 🟢 **Verde:** Bueno / Favorable.
 > * 🟡 **Amarillo:** Intermedio / Neutral.
 > * 🔴 **Rojo:** Malo / Riesgoso.
+
+## Análisis de las 4Ps
+
+X.

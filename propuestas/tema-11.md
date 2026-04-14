@@ -20,7 +20,6 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 
 ### Como sistema integral de gestión, la app permite:
 
-* **Enrutamiento inteligente de fondos:** Gestión de múltiples cuentas del usuario para programar débitos y redirigir montos (Ej. transferencias automáticas a una cuenta de ahorro compartido, o a una cuenta exclusiva para gastos fijos).
 * **Pago integrado y recordatorios:** Conexión con sistemas de terceros para abonar directamente desde la app servicios como impuestos, patentes o seguros, apoyado por un sistema de alertas para evitar vencimientos.
 * **Control de presupuesto en tiempo real:** Previsualización del saldo mensual restante para saber exactamente cuánto margen queda hasta el fin del ciclo en cada categoría de gasto.
 * **División de gastos compartidos:** Automatización de la división de cuentas entre convivientes, con asignación automática de montos según categorías (Por ejemplo, Gastos comunes como luz o expensas, y gastos personales como compras de supermercado).
@@ -54,7 +53,6 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 ### 1. Compañía
 * **Descripción:** Startup de fintech doméstica que desarrolla un ecosistema integral para la gestión, automatización y proyección del dinero. La plataforma soluciona la fricción financiera a través de cuatro pilares fundamentales:
   * **Gestión Colaborativa:** Digitaliza y automatiza la división de cuentas del hogar entre roommates, parejas o familias, separando claramente los gastos comunes de los individuales de forma equitativa.
-  * **Enrutamiento Financiero:** Permite la orquestación de múltiples cuentas del usuario, habilitando la creación de reglas para redirigir fondos automáticamente (por ejemplo, derivar un porcentaje del sueldo a un pozo de ahorro compartido o separar el dinero exacto para gastos fijos mensuales).
   * **Centralización de Pagos y Alertas:** Actúa como un hub operativo al integrarse con servicios de terceros, permitiendo abonar impuestos, patentes y seguros directamente desde la interfaz, respaldado por un sistema de recordatorios preventivos que erradica los vencimientos impagos.
   * **Control Presupuestario Dinámico:** Ofrece visibilidad total del flujo de caja mediante dashboards interactivos que muestran el saldo restante en tiempo real. El sistema ajusta y proyecta los presupuestos futuros tomando en cuenta la variación de precios por inflación y los patrones de consumo históricos del usuario.
 * **Visión:** Ser la plataforma de referencia en Argentina (Y luego en Latinoamérica) para la administración financiera automatizada, convirtiendo la economía personal y doméstica en un ecosistema simple, interconectado y predecible.
@@ -93,3 +91,40 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 > * 🟢 **Verde:** Bueno / Favorable.
 > * 🟡 **Amarillo:** Intermedio / Neutral.
 > * 🔴 **Rojo:** Malo / Riesgoso.
+
+## Análisis de las 4Ps
+
+### Producto
+
+**Cuentas Claras** es un servicio intangible (Plataforma digital) diseñado para satisfacer la necesidad de organización financiera, previsibilidad y resolución de conflictos económicos en el hogar.
+
+* **Funcionalidad Core**: Sistema integral que combina un sistema de pagos integrado, con recordatorios personalizados. Gestión colaborativa de gastos compartidos, control presupuestario en tiempo real, dashboards analíticos y proyecciones inteligentes basadas en IA.
+* **Ciclo de Vida y Expansión**: En su fase de crecimiento, el producto se centrará en la adquisición de usuarios. Está diseñado con la capacidad de expandirse horizontalmente (Aumentando la base de usuarios dentro de Argentina) y verticalmente (Adaptando el modelo para operar en otros países de LATAM o sumando servicios B2B para administradores de consorcios).
+
+### Plaza
+
+Al ser una solución 100% digital, la "plaza" se define por los canales de distribución tecnológicos y los segmentos de mercado cuantificables donde ocurrirán las transacciones.
+
+* **Canales de Distribución**: Tiendas de aplicaciones móviles (Google Play Store y Apple App Store) para el uso cotidiano y un entorno Web (Navegadores) para el análisis profundo.
+* **Segmentación del Mercado**: El tamaño del mercado total (q) se divide en segmentos específicos (P_1, P_2, P_n) que incluyen jóvenes/roommates, parejas, familias e individuos. La plataforma facilita el acceso ubicuo e inmediato al producto sin barreras geográficas físicas.
+* **Proyección de Ingresos**: Siguiendo el modelo táctico, los ingresos totales del proyecto se calcularán sumando dos grandes fuentes de monetización por cada segmento de mercado:
+- La cantidad de usuarios Premium multiplicada por la tarifa mensual del servicio.
+- La cantidad de usuarios gratuitos multiplicada por el ingreso promedio por usuario generado a través de la visualización de anuncios (ARPU publicitario). 
+
+$$Project Total Income = \sum_{k=1}^n (p_{premium\_k} * q_{premium\_k}) + (p_{ads\_k} * q_{free\_k})$$
+
+### Precio
+
+El modelo de monetización se basa en una estructura Freemium, aplicando una estrategia inicial de precio de penetración de mercado para ganar cuota rápidamente frente a competidores como Splitwise.
+
+* **Versión Gratuita**: Actúa como un "precio neutral" subsidiado por redes de publicidad (Ad Networks), diseñado para reducir la fricción de entrada y fomentar la adopción masiva.
+* **Versión Premium**: Representa el Valor Diferencial. Los clientes pagan por atributos superiores que justifican el precio: Eliminación de anuncios, proyecciones avanzadas de IA y dashboards históricos, entre otros.
+El precio de la suscripción debe calcularse considerando la elasticidad de la demanda de jóvenes profesionales y familias, garantizando la supervivencia y rentabilidad (EBIT) de la startup.
+
+### Promoción
+
+Representa todos los métodos de comunicación para traccionar descargas y conversiones a la versión Premium, enfocándose en el ecosistema digital (B2C).
+
+* **Boca a Boca (Word of Mouth)**: Es el motor principal del producto. Al ser una app colaborativa, posee un factor de viralidad inherente: Un usuario necesita invitar a sus roommates o pareja para aprovechar la división de gastos, generando crecimiento orgánico.
+* **Marketing Digital y ASO**: Optimización en las tiendas de aplicaciones (App Store Optimization) para aparecer en búsquedas clave como "dividir gastos" o "finanzas en pareja", sumado a pauta publicitaria en redes sociales segmentada por estilo de vida.
+* **Relaciones Públicas y Educación**: Colaboraciones con creadores de contenido e influencers enfocados en finanzas personales y educación financiera para demostrar cómo la app soluciona el estrés económico del hogar.
