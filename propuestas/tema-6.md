@@ -78,4 +78,18 @@ Estrategia del producto:
 
 ## Análisis de las 4Ps
 
+### Producto
+
+X.
+
+### Plaza
+
+X.
+
+### Precio
+
+X.
+
+### Promoción
+
 X.

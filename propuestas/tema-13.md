@@ -78,4 +78,18 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 
 ## Análisis de las 4Ps
 
+### Producto
+
+X.
+
+### Plaza
+
+X.
+
+### Precio
+
+X.
+
+### Promoción
+
 X.
