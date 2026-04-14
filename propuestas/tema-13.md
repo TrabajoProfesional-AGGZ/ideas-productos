@@ -79,17 +79,25 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 ## Análisis de las 4Ps
 
 ### Producto
-
-X.
+SocioUnido es una plataforma SaaS B2B modular orientada a la gestión y fidelización de entidades deportivas. No es un simple CRM, sino un ecosistema compuesto por cuatro pilares:
+* **Dashboard Administrativo (Web):** Centro de comando para la gerencia, con métricas financieras y operativas en tiempo real.
+* **Aplicación del Socio (PWA/Mobile):** Interfaz de autogestión para el usuario final, con credencial digital y acceso a beneficios. También podrá adquerir servicios adicionales (clases, alquiler de canchas) directamente desde la app.
+* **Módulo de Inteligencia y Seguridad:** Generación de Tokens TOTP (QR dinámico anti-fraude) y motor predictivo de abandono (Machine Learning).
+* **Canal Conversacional:** Integración de un bot de WhatsApp con NLP para atención automatizada y transaccional.  
 
 ### Plaza
-
-X.
+Al ser un producto digital (Cloud-based), la distribución principal carece de barreras físicas. 
+* **Despliegue de Software:** Se comercializa mediante acceso web (navegadores) para la administración, y a través de tiendas de aplicaciones (Google Play / App Store) o PWA para los socios.
+* **Implementación Física (On-site):** La única instancia "física" de la plaza es la etapa de *onboarding* técnico, donde nuestro equipo (o *partners* integradores) conecta las APIs del sistema con el hardware preexistente del club (molinetes, lectoras ópticas y barreras de estacionamiento).
 
 ### Precio
-
-X.
+La estrategia de monetización se basa en el "Pricing basado en el Valor" y consta de dos componentes:
+* **Setup Fee (Pago Único):** Cobro inicial por la configuración de la cuenta, migración de la base de datos de socios anterior y la integración de las APIs con los molinetes del club.
+* **Suscripción Mensual (SaaS B2B):** Modelo escalonado basado en el volumen de socios activos. A medida que el club crece, el plan se ajusta.
+**Justificación estratégica:** El precio se presenta a los directivos no como un gasto, sino como una inversión con ROI inmediato. El costo mensual de la plataforma se paga solo al tapar la fuga de capital que genera el fraude en la puerta (QR estático) y al retener socios mediante la IA predictiva antes de que dejen de pagar.
 
 ### Promoción
-
-X.
+Al apuntar a *Decision Makers* (Gerentes y Presidentes de clubes), la estrategia de captación se aleja del marketing masivo B2C y se enfoca en ventas corporativas:
+* **Venta Consultiva (Outbound B2B):** Contacto directo y perfilado a través de LinkedIn y correo electrónico con gerentes deportivos, ofreciendo una "Auditoría de Pérdidas por Fraude".
+* **Marketing de Demostración:** Ofrecer calculadoras de ROI en la página web donde un gerente pueda ingresar sus datos (ej. "Tengo 5.000 socios") y el sistema le calcule cuánta plata está perdiendo por mes debido a tecnología obsoleta.
+* **Presencia en Nichos Estratégicos:** Participación y sponsoreo en congresos de *Sports Management* y alianzas con federaciones deportivas regionales para que actúen como recomendadores oficiales del sistema ante sus clubes afiliados.
