@@ -93,6 +93,12 @@ Al ser una solución 100% digital y orientada al mercado B2B, la "plaza" se defi
 * **Segmentación del Mercado**: El tamaño del mercado total (q) se divide en segmentos específicos (P_1, P_2, P_n) que incluyen software factories, startups tecnológicas en fase de crecimiento, empresas consolidadas con equipos de desarrollo grandes y líderes técnicos (CTOs) que buscan profesionalizar su proceso de inducción. La plataforma facilita el acceso ubicuo sin barreras geográficas, permitiendo atender clientes en toda LATAM desde el día uno.
 * **Proyección de Ingresos**: Siguiendo el modelo táctico, los ingresos totales del proyecto se calcularán sumando las fuentes de monetización por cada segmento de mercado: La cantidad de empresas suscriptas multiplicada por la tarifa mensual según el plan contratado (escalado por cantidad de desarrolladores onboarded o seats activos).
 
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t6.png" alt="Fórmula de Proyección de Ingresos">
+</p>
+
+* **Expansión del Ecosistema vía Alianzas de Certificación (Partnerships y Sponsoreo Mutuo)**: La "Plaza" trasciende la venta directa B2B al transformar la plataforma en un validador práctico de habilidades avalado por la industria. Se establece un modelo de distribución y co-marketing mediante alianzas estratégicas con entidades certificadoras (Ej. AWS, Linux Foundation, Scrum.org), academias tecnológicas y fundaciones creadoras de lenguajes/frameworks. DevQuest actúa como un ecosistema donde el cumplimiento de ciertos "Árboles de habilidades" otorga a los desarrolladores vouchers de descuento o créditos para rendir certificaciones oficiales. A cambio, estas instituciones patrocinan la plataforma, validan el contenido técnico de las misiones e incluyen a DevQuest en sus redes de partners corporativos, recomendándolo a sus empresas cliente como el estándar para asentar conocimientos teóricos en repositorios de código reales. Esta simbiosis disminuye drásticamente el Costo de Adquisición de Clientes (CAC) corporativos gracias a la transferencia de autoridad y autoridad de marca de los sponsors.
+
 ### Precio
 
 El modelo de monetización se basa en una estructura de suscripción SaaS B2B, aplicando una estrategia de precio por valor, justificada por el ahorro directo en horas de líderes técnicos senior que la plataforma genera para la empresa cliente.

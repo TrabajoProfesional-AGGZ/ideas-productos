@@ -79,25 +79,39 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 ## Análisis de las 4Ps
 
 ### Producto
+
 SocioUnido es una plataforma SaaS B2B modular orientada a la gestión y fidelización de entidades deportivas. No es un simple CRM, sino un ecosistema compuesto por cuatro pilares:
+
 * **Dashboard Administrativo (Web):** Centro de comando para la gerencia, con métricas financieras y operativas en tiempo real.
 * **Aplicación del Socio (PWA/Mobile):** Interfaz de autogestión para el usuario final, con credencial digital y acceso a beneficios. También podrá adquerir servicios adicionales (clases, alquiler de canchas) directamente desde la app.
 * **Módulo de Inteligencia y Seguridad:** Generación de Tokens TOTP (QR dinámico anti-fraude) y motor predictivo de abandono (Machine Learning).
 * **Canal Conversacional:** Integración de un bot de WhatsApp con NLP para atención automatizada y transaccional.  
 
 ### Plaza
+
 Al ser un producto digital (Cloud-based), la distribución principal carece de barreras físicas. 
+
 * **Despliegue de Software:** Se comercializa mediante acceso web (navegadores) para la administración, y a través de tiendas de aplicaciones (Google Play / App Store) o PWA para los socios.
 * **Implementación Física (On-site):** La única instancia "física" de la plaza es la etapa de *onboarding* técnico, donde nuestro equipo (o *partners* integradores) conecta las APIs del sistema con el hardware preexistente del club (molinetes, lectoras ópticas y barreras de estacionamiento).
 
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t13.png" alt="Fórmula de Proyección de Ingresos">
+</p>
+
+* **Expansión del Ecosistema y Marketplace Deportivo (Canal B2B2C)**: Más allá de la provisión del software administrativo al club, la "Plaza" se expande al transformar la aplicación móvil del socio en un canal de distribución dirigido y altamente segmentado. A través de alianzas comerciales con marcas de indumentaria, tiendas de suplementación, sponsors del club o clínicas de medicina deportiva, la plataforma actúa como un puente transaccional. Estos actores de terceros pueden desplegar campañas de beneficios dinámicos (Por ejemplo, habilitar automáticamente un 20% de descuento en botines o indumentaria deportiva presentando la credencial digital en días de partido). Esta estrategia convierte a la app en un punto de encuentro entre una demanda cautiva y perfilada (Los miembros del club) y la oferta del retail deportivo, fidelizando al usuario final con beneficios tangibles y abriendo la puerta a esquemas de monetización indirecta (Modelos de CPA o revenue share) sin costo adicional para la institución.
+
 ### Precio
+
 La estrategia de monetización se basa en el "Pricing basado en el Valor" y consta de dos componentes:
+
 * **Setup Fee (Pago Único):** Cobro inicial por la configuración de la cuenta, migración de la base de datos de socios anterior y la integración de las APIs con los molinetes del club.
 * **Suscripción Mensual (SaaS B2B):** Modelo escalonado basado en el volumen de socios activos. A medida que el club crece, el plan se ajusta.
 **Justificación estratégica:** El precio se presenta a los directivos no como un gasto, sino como una inversión con ROI inmediato. El costo mensual de la plataforma se paga solo al tapar la fuga de capital que genera el fraude en la puerta (QR estático) y al retener socios mediante la IA predictiva antes de que dejen de pagar.
 
 ### Promoción
+
 Al apuntar a *Decision Makers* (Gerentes y Presidentes de clubes), la estrategia de captación se aleja del marketing masivo B2C y se enfoca en ventas corporativas:
+
 * **Venta Consultiva (Outbound B2B):** Contacto directo y perfilado a través de LinkedIn y correo electrónico con gerentes deportivos, ofreciendo una "Auditoría de Pérdidas por Fraude".
 * **Marketing de Demostración:** Ofrecer calculadoras de ROI en la página web donde un gerente pueda ingresar sus datos (ej. "Tengo 5.000 socios") y el sistema le calcule cuánta plata está perdiendo por mes debido a tecnología obsoleta.
 * **Presencia en Nichos Estratégicos:** Participación y sponsoreo en congresos de *Sports Management* y alianzas con federaciones deportivas regionales para que actúen como recomendadores oficiales del sistema ante sus clubes afiliados.

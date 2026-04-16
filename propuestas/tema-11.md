@@ -112,8 +112,10 @@ Al ser una solución 100% digital, la "plaza" se define por los canales de distr
 - La cantidad de usuarios gratuitos multiplicada por el ingreso promedio por usuario generado a través de la visualización de anuncios (ARPU publicitario). 
 
 <p align="center">
-  <img src="../assets/images/formula-ingresos.png" alt="Fórmula de Proyección de Ingresos">
+  <img src="../assets/images/formula-ingresos_t11.png" alt="Fórmula de Proyección de Ingresos">
 </p>
+
+* **Expansión del Ecosistema vía Alianzas Estratégicas (Canales B2B2C)**: Adicionalmente a los canales de distribución directos (App y Web), la "Plaza" se expande al transformar la plataforma en un hub transaccional interconectado con entidades bancarias, fintechs y retailers. Mediante integraciones de API, la aplicación actúa como un nuevo canal de distribución dirigido para estas instituciones, permitiéndoles desplegar campañas de beneficios dinámicos y segmentados directamente en la interfaz del usuario (Por ejemplo, la aplicación de descuentos exclusivos financiados por un banco asociado en días específicos sobre categorías de consumo particulares). Esto amplía la capilaridad del producto, integrándolo en las redes de valor de empresas de terceros y convirtiendo a la plataforma en un punto de encuentro estratégico entre la demanda cautiva (Usuarios) y la oferta minorista/financiera.
 
 ### Precio
 
