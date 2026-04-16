@@ -51,41 +51,43 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 ## Análisis de las 5Cs
 
 ### 1. Compañía
-* **Descripción:** Startup de fintech doméstica que desarrolla un ecosistema integral para la gestión, automatización y proyección del dinero. La plataforma soluciona la fricción financiera a través de cuatro pilares fundamentales:
-  * **Gestión Colaborativa:** Digitaliza y automatiza la división de cuentas del hogar entre roommates, parejas o familias, separando claramente los gastos comunes de los individuales de forma equitativa.
-  * **Centralización de Pagos y Alertas:** Actúa como un hub operativo al integrarse con servicios de terceros, permitiendo abonar impuestos, patentes y seguros directamente desde la interfaz, respaldado por un sistema de recordatorios preventivos que erradica los vencimientos impagos.
-  * **Control Presupuestario Dinámico:** Ofrece visibilidad total del flujo de caja mediante dashboards interactivos que muestran el saldo restante en tiempo real. El sistema ajusta y proyecta los presupuestos futuros tomando en cuenta la variación de precios por inflación y los patrones de consumo históricos del usuario.
-* **Visión:** Ser la plataforma de referencia en Argentina (Y luego en Latinoamérica) para la administración financiera automatizada, convirtiendo la economía personal y doméstica en un ecosistema simple, interconectado y predecible.
-* **Misión:** Empoderar a individuos y hogares para que tomen el control total de su dinero. Buscamos eliminar los conflictos por gastos compartidos, erradicar la carga mental de los vencimientos y automatizar los procesos de pago y ahorro mediante tecnología accesible e intuitiva.
+* **Descripción:** Startup fintech enfocada en simplificar la economía personal y doméstica. Desarrollamos un ecosistema integral que elimina la fricción financiera centralizando tres funciones clave:
+  * **La división automatizada de gastos compartidos.**
+  * **Un hub operativo para el pago de servicios (Con alertas preventivas).**
+  * **Un control presupuestario dinámico en tiempo real ajustado por inflación.**
+* **Visión:** Garantizar la convivencia financiera perfecta en cada hogar, transformando la economía doméstica en una experiencia sencilla, invisible, equitativa y completamente libre de conflictos.
+* **Misión:** Desarrollando la herramienta inteligente que centraliza y automatiza la información de los gastos, eliminando la carga mental de los vencimientos y empoderando a los usuarios para que tomen el control total de su dinero mediante tecnología intuitiva.
 
 ### 2. Colaboradores
-* **Entidades de cobro y servicios de terceros:** Integraciones API con entes gubernamentales o privados (Por ejemplo, sistemas de impuestos, aseguradoras) para permitir el pago directo desde la app.
+* **Entidades de cobro y procesadores de pago:** Integraciones API con entes gubernamentales o privados. Además de integración con bancos y fintechs para facilitar el pago de servicios y la gestión de cuentas (Por ejemplo, Mercado Pago).
 * **Redes de publicidad (Ad Networks):** Google AdMob u otros proveedores para monetizar la versión gratuita de la plataforma.
 * **Proveedores de datos macroeconómicos:** INDEC, bancos centrales y APIs de inflación para alimentar los modelos predictivos.
-* **Procesadores de pagos:** Integración con Mercado Pago, transferencias bancarias o CBU para saldar deudas entre convivientes y enrutar dinero entre cuentas propias.
-* **Proveedores de infraestructura cloud:** AWS, GCP o Azure para hosting, procesamiento de IA y OCR.
-* **App Stores:** Google Play y Apple App Store como canales de distribución principales.
+* **Boca a Boca (Word of mouth):** Usuarios actuales que recomiendan la app a sus amigos, familiares o compañeros de vivienda, generando crecimiento orgánico.
+* **Macroeconomía y Microeconomía**: El contexto económico general y la situación financiera individual de los usuarios son factores externos que afectan directamente la necesidad y el valor percibido del producto. Ya que en situaciones económicas adversas, la relevancia de gestionar bien las finanzas personales tiende a aumentar.
   
 ### 3. Clientes
 * **Familias**: Hogares con múltiples fuentes de gasto. Valoran la automatización de pagos fijos, la claridad en los dashboards históricos y los recordatorios para que nada se venza.
 * **Parejas**: Adultos con economía compartida. Buscan visibilidad conjunta del presupuesto, previsualización de saldo restante y facilidad para aportar a cuentas de ahorro mutuo.
 * **Roommates**: Estudiantes o jóvenes profesionales. Su prioridad es la división equitativa de cuentas cotidianas y la independencia para gestionar el resto de sus ingresos personales en la misma plataforma.
 * **Individuos**: Personas que gestionan su economía personal sin convivientes. Necesitan una solución para organizar sus finanzas de forma clara y automatizada.
+* **Pequeñas Pymes / Comercios de Barrio**: Negocios locales que necesitan una herramienta sencilla para gestionar sus finanzas, especialmente aquellos que operan familiarmente o con estructuras informales.
 
 ### 4. Competidores
 * **Splitwise**: Aplicación de división de gastos. Tiene versión gratis y premium, pero carece de automatización de pagos personales, proyecciones por inflación y gestión multi-cuenta.
 * **Excel / Google Sheets**: Herramienta genérica para seguimiento de gastos, requiere carga manual constante, no es dinámica ni ejecuta pagos.
-* **Apps bancarias**: Finanzas personales. No están preparadas para la gestión colaborativa del hogar ni ofrecen integraciones predictivas cruzadas con inflación.
+* **Apps bancarias**: Finanzas personales. No están preparadas para la gestión colaborativa del hogar ni ofrecen integraciones predictivas cruzadas con inflación. Pero en caso de éxito de la aplicación, podrían convertirse en competidores potenciales si deciden expandir su oferta hacia la gestión integral del dinero.
+* **Economía informal**: Personas que operan en la economía informal (Principalmente con efectivo) y no utilizan herramientas digitales para organizar sus finanzas.
+* **Macroeconomía y Microeconomía**: El contexto económico general y la situación financiera individual de los usuarios son factores externos que afectan directamente la necesidad y el valor percibido del producto. Ya que en situaciones económicas de estabilidad económica, la adopción va a ser mas lenta, ya que no se vuelve tan necesario controlar las finanzas personales.
 
 ### 5. Contexto
 
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
 | :--- | :---: | :---: | :---: |
 | **Económico** | 🟢 | 🟡 | 🟢 |
-| **Regulatorio** | 🟢 | 🟡 | 🟡 |
+| **Regulatorio** | 🟢 | 🟢 | 🟢 |
 | **Social / Cultural** | 🟡 | 🟢 | 🟢 |
 | **Tecnológico** | 🟢 | 🟢 | 🟢 |
-| **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
+| **Político / Ambiental** | 🟢 | 🟡 | 🟢 |
 
 > **Guía de colores**
 > * 🟢 **Verde:** Bueno / Favorable.
