@@ -40,15 +40,14 @@ Estrategia del producto:
 ### 1. Compañía
 
 * **Descripción:** Startup de tecnología enfocada en soluciones de recursos humanos para el sector IT, con un producto innovador que gamifica el proceso de inducción de nuevos desarrolladores, reduciendo la carga sobre los líderes técnicos y acelerando la integración del talento.
-* **Visión:** Ser la plataforma de referencia para el onboarding de desarrolladores en empresas tecnológicas, transformando un proceso tradicionalmente tedioso en una experiencia interactiva y eficiente que acelere la productividad desde el primer día.
-* **Misión:** Brindar a las empresas tecnológicas una herramienta innovadora que facilite la integración de nuevos desarrolladores, reduciendo la curva de aprendizaje y permitiendo que los líderes técnicos se enfoquen en tareas estratégicas en lugar de la inducción manual.
+* **Visión:** Ser la plataforma que erradique por completo la fricción de integrar talento nuevo en equipos de desarrollo, logrando un mundo donde cualquier desarrollador, en cualquier empresa del planeta, alcance su máxima productividad desde el primer día sin depender de la disponibilidad de otra persona.
+* **Misión:** Transformando el proceso de onboarding técnico en una experiencia gamificada, autónoma e inteligente, reduciendo la curva de aprendizaje de nuevos desarrolladores y liberando a los líderes técnicos para que se enfoquen en tareas estratégicas en lugar de la inducción manual.
 
 ### 2. Colaboradores
 
-1. **Plataformas de Repositorios de Código:** GitHub, GitLab, Bitbucket para integraciones automáticas.
-2. **Empresas de Recursos Humanos:** Para la promoción y adopción del producto en el mercado.
-3. **Inversores de Tecnología:** Fondos de inversión interesados en soluciones innovadoras para el sector IT.
-4. **Comunidad de Desarrolladores:** Para feedback continuo y validación de las misiones y árboles de habilidades.
+1. **Empresas de Recursos Humanos:** Para la promoción y adopción del producto en el mercado.
+2. **Comunidad de Desarrolladores (Word of Mouth):** Para feedback continuo, validación de las misiones y árboles de habilidades, y difusión orgánica de la plataforma a través de recomendaciones entre pares dentro de la comunidad tech.
+3. **La ansiedad por la adquisición de nuevas tecnologías:** La velocidad con la que emergen nuevos lenguajes, frameworks y herramientas genera una presión constante en las empresas por capacitar y actualizar a sus equipos. Esta urgencia del mercado actúa como un colaborador natural que impulsa la demanda de soluciones de onboarding estructuradas y escalables como DevQuest.
 
 ### 3. Clientes
 
@@ -60,15 +59,17 @@ Estrategia del producto:
 1. **El "Status Quo" (Competencia Principal):** La desorganización interna. Archivos README.md desactualizados, horas de "shadowing" improductivo en llamadas por Zoom y flujos de inducción basados en la memoria del líder técnico.
 2. **Plataformas de Onboarding Tradicionales:** Herramientas como BambooHR o Workday que ofrecen módulos de onboarding pero sin la gamificación ni la integración específica para desarrolladores.
 3. **Sistemas de Gestión de Conocimiento:** Plataformas como Confluence o Notion que pueden ser utilizadas para documentar procesos pero no ofrecen una experiencia interactiva ni automatizada para el onboarding de desarrolladores.
+4. **Reducción masiva de personal por IA:** La tendencia creciente de empresas que reemplazan roles técnicos con soluciones de inteligencia artificial reduce la cantidad de nuevas contrataciones de desarrolladores, achicando directamente el mercado objetivo de la plataforma.
+5. **Modelos de IA generativa como guías de referencia:** Herramientas de IA capaces de generar documentación, guías de onboarding y respuestas técnicas personalizadas bajo demanda, compitiendo directamente con la propuesta de valor del asistente RAG y los árboles de habilidades estructurados de DevQuest.
 
 ### 5. Contexto
 
 | Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
 | :--- | :---: | :---: | :---: |
-| **Económico** | 🟡 | 🟢 | 🟢 |
+| **Económico** | 🟢 | 🟢 | 🟢 |
 | **Regulatorio** | 🟢 | 🟢 | 🟢 |
 | **Social / Cultural** | 🟢 | 🟢 | 🟢 |
-| **Tecnológico** | 🟡 | 🟢 | 🟢 |
+| **Tecnológico** | 🟢 | 🟢 | 🟢 |
 | **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
 
 > **Guía de colores**
