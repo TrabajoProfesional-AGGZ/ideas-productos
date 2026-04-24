@@ -94,43 +94,65 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 > * 🟡 **Amarillo:** Intermedio / Neutral.
 > * 🔴 **Rojo:** Malo / Riesgoso.
 
-## Análisis de las 4Ps
+## Análisis de las 4 Ps
 
-### Producto
+### 1. Producto (Product)
 
-**Cuentas Claras** es un servicio intangible (Plataforma digital) diseñado para satisfacer la necesidad de organización financiera, previsibilidad y resolución de conflictos económicos en el hogar.
+#### Productos principales a lanzar
 
-* **Funcionalidad Core**: Sistema integral que combina un sistema de pagos integrado, con recordatorios personalizados. Gestión colaborativa de gastos compartidos, control presupuestario en tiempo real, dashboards analíticos y proyecciones inteligentes basadas en IA.
-* **Ciclo de Vida y Expansión**: En su fase de crecimiento, el producto se centrará en la adquisición de usuarios. Está diseñado con la capacidad de expandirse horizontalmente (Aumentando la base de usuarios dentro de Argentina) y verticalmente (Adaptando el modelo para operar en otros países de LATAM o sumando servicios B2B para administradores de consorcios).
+* **Versión Freemium (Producto Core):** Herramienta base de división de gastos y seguimiento limitada. Funciona como embudo de conversión para demostrar el valor de la automatización.
+* **Suscripción Premium (Valor Diferencial):** Experiencia sin anuncios con acceso a proyecciones avanzadas de IA (inflación), dashboards históricos completos y otras funcionalidades especiales.
+* **Canales B2B2C (Retail Partnering):** Alianzas estratégicas con comercios y bancos para desplegar campañas de beneficios dinámicos y descuentos exclusivos dentro de la interfaz.
 
-### Plaza
+### Productos potenciales a futuro
 
-Al ser una solución 100% digital, la "plaza" se define por los canales de distribución tecnológicos y los segmentos de mercado cuantificables donde ocurrirán las transacciones.
+* **Marketplace de Terceros (Lead Generation):** Hub transaccional donde entidades financieras y de seguros ofrecen productos segmentados según el patrón de consumo del usuario.
+* **Servicio de Fact Finding (Análisis de Datos):** Generación de reportes agregados sobre tendencias de consumo para partners estratégicos, manteniendo la privacidad del usuario.
 
-* **Canales de Distribución**: Tiendas de aplicaciones móviles (Google Play Store y Apple App Store) para el uso cotidiano y un entorno Web (Navegadores) para el análisis profundo.
-* **Segmentación del Mercado**: El tamaño del mercado total (q) se divide en segmentos específicos (P_1, P_2, P_n) que incluyen jóvenes/roommates, parejas, familias e individuos. La plataforma facilita el acceso ubicuo e inmediato al producto sin barreras geográficas físicas.
-* **Proyección de Ingresos**: Siguiendo el modelo táctico, los ingresos totales del proyecto se calcularán sumando dos grandes fuentes de monetización por cada segmento de mercado:
-- La cantidad de usuarios Premium multiplicada por la tarifa mensual del servicio.
-- La cantidad de usuarios gratuitos multiplicada por el ingreso promedio por usuario generado a través de la visualización de anuncios (ARPU publicitario). 
+### 2. Plaza (Place)
 
-<p align="center">
-  <img src="../assets/images/formula-ingresos_t11.png" alt="Fórmula de Proyección de Ingresos">
-</p>
+La distribución es 100% digital a través de tiendas de aplicaciones (App Store y Google Play) y entorno web, permitiendo un acceso ubicuo sin barreras geográficas.
 
-* **Expansión del Ecosistema vía Alianzas Estratégicas (Canales B2B2C)**: Adicionalmente a los canales de distribución directos (App y Web), la "Plaza" se expande al transformar la plataforma en un hub transaccional interconectado con entidades bancarias, fintechs y retailers. Mediante integraciones de API, la aplicación actúa como un nuevo canal de distribución dirigido para estas instituciones, permitiéndoles desplegar campañas de beneficios dinámicos y segmentados directamente en la interfaz del usuario (Por ejemplo, la aplicación de descuentos exclusivos financiados por un banco asociado en días específicos sobre categorías de consumo particulares). Esto amplía la capilaridad del producto, integrándolo en las redes de valor de empresas de terceros y convirtiendo a la plataforma en un punto de encuentro estratégico entre la demanda cautiva (Usuarios) y la oferta minorista/financiera.
+#### Estimación del Tamaño del Mercado (Enfoque Top-Down):
 
-### Precio
+Para reducir la incertidumbre, aplicamos una estimación basada en el razonamiento de Fermi:
 
-El modelo de monetización se basa en una estructura Freemium, aplicando una estrategia inicial de precio de penetración de mercado para ganar cuota rápidamente frente a competidores como Splitwise.
+1. **Línea Base (Hogares en Argentina):** ~14.500.000 hogares.
+2. **Hogares Digitalizados:** Estimamos un 80% con acceso a smartphones y conectividad → **11.600.000 hogares**.
+3. **Segmento Objetivo (Parejas, Roommates y Familias Urbanas):** Aproximadamente el 60% de los hogares digitalizados → **6.960.000 hogares**.
+4. **Mercado Disponible (SAM):** Usuarios de billeteras virtuales y banca digital (Estimado en 45% de penetración) → **~3.132.000 usuarios potenciales**.
+5. **Mercado Objetivo (TAM - Año 1):** Con una penetración conservadora del 1,5%, el objetivo es capturar **~47.000 usuarios activos**.
 
-* **Versión Gratuita**: Actúa como un "precio neutral" subsidiado por redes de publicidad (Ad Networks), diseñado para reducir la fricción de entrada y fomentar la adopción masiva.
-* **Versión Premium**: Representa el Valor Diferencial. Los clientes pagan por atributos superiores que justifican el precio: Eliminación de anuncios, proyecciones avanzadas de IA y dashboards históricos, entre otros.
-El precio de la suscripción debe calcularse considerando la elasticidad de la demanda de jóvenes profesionales y familias, garantizando la supervivencia y rentabilidad (EBIT) de la startup.
+### 3. Precio (Price)
 
-### Promoción
+Se aplica una estrategia de **precio de penetración** para fomentar la adopción masiva y competir contra soluciones informales o herramientas genéricas.
 
-Representa todos los métodos de comunicación para traccionar descargas y conversiones a la versión Premium, enfocándose en el ecosistema digital (B2C).
+#### Estructura de Precios Estimados:
 
-* **Boca a Boca (Word of Mouth)**: Es el motor principal del producto. Al ser una app colaborativa, posee un factor de viralidad inherente: Un usuario necesita invitar a sus roommates o pareja para aprovechar la división de gastos, generando crecimiento orgánico.
-* **Marketing Digital y ASO**: Optimización en las tiendas de aplicaciones (App Store Optimization) para aparecer en búsquedas clave como "dividir gastos" o "finanzas en pareja", sumado a pauta publicitaria en redes sociales segmentada por estilo de vida.
-* **Relaciones Públicas y Educación**: Colaboraciones con creadores de contenido e influencers enfocados en finanzas personales y educación financiera para demostrar cómo la app soluciona el estrés económico del hogar.
+* **Plan Gratuito ($0):** Financiado mediante redes de publicidad (AdMob).
+* **Premium Individual ($1.800/mes):** Basado en la percepción de valor de "paz mental" y mejores funcionalidades.
+* **Premium Hogar ($4.500/mes):** Plan familiar para hasta 4 usuarios, incentivando el uso colaborativo y la retención.
+* **Comisiones B2B:** Se estima una comisión de éxito de entre el **3% y 7%** por cada producto financiero o servicio contratado vía Marketplace.
+
+#### Proyección de Ingresos
+
+El cálculo de ingresos totales anuales se rige por la suma de la monetización de los segmentos Premium y Gratuitos:
+
+**Ingresos = (N° Usuarios Premium × Tarifa) + (N° Usuarios Gratuitos × ARPU Publicitario) + Comisiones B2B**
+
+### 4. Promoción (Promotion)
+
+La estrategia se centra en la viralidad inherente del producto y la educación financiera.
+
+* **Boca a Boca (Word of Mouth):** Al ser una herramienta colaborativa, el crecimiento es orgánico; el usuario invita a su círculo cercano para poder utilizar la función de división de gastos.
+* **ASO y Marketing Digital:** Optimización en tiendas para términos como "dividir gastos" y pauta segmentada en redes sociales enfocada en jóvenes profesionales y parejas.
+* **Educación con Influencers:** Colaboraciones con expertos en finanzas personales para demostrar cómo la app reduce el estrés económico del hogar.
+
+#### Estimación de Presupuesto de Marketing
+
+Para alcanzar los 47.000 usuarios anuales (~3.900 nuevos usuarios/mes) con un presupuesto eficiente:
+
+* **Inversión Mensual:** **$1.500.000 ARS**.
+* **Distribución:** 70% en pauta digital para captar "usuarios semilla" y 30% en contenido educativo/social.
+* **Estrategia de Adquisición:** La inversión paga captará ~750 usuarios mensuales (CAC de $2.000 ARS). Gracias al factor de viralidad (Cada usuario invita a sus convivientes), estos 750 usuarios atraerán orgánicamente a los ~3.150 restantes necesarios para cumplir la meta mensual.
+* **Ajuste Dinámico:** El presupuesto se optimizará mensualmente según la tasa de recomendación real observada entre los usuarios.
