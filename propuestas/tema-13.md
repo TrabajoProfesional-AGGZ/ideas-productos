@@ -8,21 +8,23 @@ nav_order: 14
 
 ## 🎯 Necesidad u oportunidad detectada
 
-Los clubes de fútbol en Argentina sufren dos grandes pérdidas económicas que muchas veces pasan desapercibidas:
+Los clubes de fútbol en Argentina sufren tres grandes pérdidas económicas que muchas veces pasan desapercibidas:
 
 - La rotación de socios (abandono o morosidad).
 - La evasión en los accesos los días de partido (Préstamo de carnets o capturas de pantalla de códigos QR estáticos).
+- Desaprovechamiento de los espacios de uso alquilables por los socios.
 
 Además, las dirigencias y áreas administrativas destinan una cantidad desproporcionada de horas-hombre en tareas repetitivas, como responder consultas, gestionar cobros manuales o administrar el alta de nuevos hinchas.
 
 ## 💡 Solución planteada
 
-Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la gestión administrativa del club de fútbol (Abonos, cuotas sociales, accesos al estadio) y la potencia con herramientas de fidelización activa y seguridad perimetral.
+Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la gestión administrativa del club de fútbol (Abonos, cuotas sociales, accesos al estadio, espacios compartidos) y la potencia con herramientas de fidelización activa y seguridad perimetral.
 
 **Estrategia del producto:**
 
 1. **Prevención y Fidelización:** Pasar de un modelo reactivo (Dar de baja al socio que no paga) a un modelo proactivo, detectando patrones de ausentismo o falta de pago para incentivar la retención antes de que el usuario abandone la institución.
 2. **Seguridad y Autogestión:** Optimizar el control en molinetes los días de partido mediante tecnología dinámica offline y automatizar la atención al socio mediante canales conversacionales.
+2. **Optimización de espacios:** Refinar el sistema mediante al que se alquilan espacios, o brindan servicios a los usuarios.
 
 ## 👥 Clientes objetivos
 
@@ -32,7 +34,7 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 ## 📱 Medios de uso
 
 * **Plataforma Web (Dashboard B2B):** Panel de control para la administración del club (Finanzas, métricas de retención, estado de la masa societaria).
-* **App Móvil / PWA del Socio:** Billetera digital del hincha donde reside su carnet digital dinámico, estado de cuenta y cartelera de beneficios.
+* **App Móvil / PWA del Socio:** Billetera digital del hincha donde reside su carnet digital dinámico, estado de cuenta, cartelera de beneficios y alquiler de espacios/servicios.
 * **Integración WhatsApp:** Canal de atención automatizado 24/7 para consultas de los hinchas.
 * **Integración con sistemas existentes:** APIs diseñadas para conectar la validación de tokens directamente con los molinetes de acceso físico del estadio.
 
@@ -87,10 +89,10 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 
 SocioUnido es una plataforma SaaS B2B modular diseñada exclusivamente para la realidad del fútbol argentino. Es un ecosistema compuesto por cuatro pilares:
 
-* **Dashboard Administrativo (Web):** Centro de comando para la comisión directiva y gerencia, con métricas de recaudación, morosidad y accesos.
-* **Aplicación del Hincha/Socio (PWA/Mobile):** Interfaz para el usuario final. Contiene su carnet digital (QR), pagos de cuota social, compra de abonos y acceso a noticias o tienda del club.
-* **Módulo de Alta Concurrencia (Estadios):** Generación de Tokens TOTP (QR dinámico offline) capaz de validar miles de accesos por minuto sin depender de la red WiFi/4G del estadio (Implementación futura, no considerada en un primer MVP).
+* **Dashboard Administrativo (Web):** Centro de comando para la comisión directiva y gerencia, con métricas de recaudación, morosidad, accesos y gestión de espacios/servicios brindados.
+* **Aplicación del Hincha/Socio (PWA/Mobile):** Interfaz para el usuario final. Contiene su carnet digital (QR), pagos de cuota social, compra de abonos, plataforma de alquiler de espacios/servicios y acceso a noticias o tienda del club.
 * **Canal Conversacional:** Bot de WhatsApp con NLP para consultas de los hinchas y gestión de pagos automatizada.
+* **Módulo de Alta Concurrencia (Estadios):** Generación de Tokens TOTP (QR dinámico offline) capaz de validar miles de accesos por minuto sin depender de la red WiFi/4G del estadio (Implementación futura, no considerada en un primer MVP).
 
 ### Plaza
 
@@ -109,6 +111,7 @@ Para definir nuestra estrategia de penetración, analizamos la estructura del f�
 | **5°** | **Torneo Promocional Amateur** | **17** |
 
 #### Estrategia de Penetración de Mercado (Go-To-Market):
+
 Nuestra fase inicial de comercialización **no** apuntará a los equipos de élite. Nos enfocaremos estratégicamente en los clubes que se encuentran entre la **Primera B Metropolitana** y la **Primera C**. 
 
 * **Justificación de Fase 1:** La magnitud y estructura organizacional de estos clubes nos permite acceder directamente a los tomadores de decisión (Presidentes o Tesoreros) de manera mucho más ágil, esquivando la densa burocracia y los contratos exclusivos preexistentes de los equipos de Primera División. Es un nicho con necesidades tecnológicas urgentes y presupuestos que justifican la inversión.
