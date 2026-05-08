@@ -123,7 +123,9 @@ Nuestra fase inicial de comercialización **no** apuntará a los equipos de éli
 
 La estrategia de monetización de SocioUnido se basa en un "Pricing basado en el Valor" estructurado en tres componentes, como refleja nuestra proyección de ingresos:
 
-$$Ingresos = \\ (Setup\_Fee \cdot q_{new\_clu.}) + \sum_{k} (SaaS\_Subs._k \cdot q_{act\_clu.\_k}) + (Mark.\_CPA \cdot q_{trans.})$$
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t13.png" alt="Fórmula de Proyección de Ingresos">
+</p>
 
 1. **Setup Fee (Pago Único):** Cobro inicial por la configuración de la cuenta, migración de la base de datos del padrón de socios y la integración técnica con los molinetes del estadio.
 2. **Suscripción Mensual SaaS B2B:** Tarifa escalonada basada en el volumen de socios activos del club. El costo se justifica ante la dirigencia, ya que se "paga solo" con el recupero de cuotas atrasadas y la eliminación de colados en la cancha.

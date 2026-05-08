@@ -131,7 +131,9 @@ Se aplica una estrategia de **precio de penetración** para fomentar la adopció
 
 El cálculo de ingresos totales anuales se rige por la suma de la monetización de los segmentos Premium y Gratuitos, más las integraciones corporativas:
 
-$$Ingresos = (q_{Premium} \cdot Tari\_Prom) + (q_{Gratu} \cdot ARPU_{Publi}) + Comisiones_{B2B}$$
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t11.png" alt="Fórmula de Proyección de Ingresos">
+</p>
 
 *Donde 'q' representa la cantidad de usuarios activos en cada respectivo segmento.*
 

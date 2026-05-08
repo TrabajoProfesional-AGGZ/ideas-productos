@@ -56,7 +56,7 @@ Estrategia del producto:
 
 ### 4. Competidores
 
-1. **El "Status Quo" (Competencia Principal):** La desorganización interna. Archivos README.md desactualizados, horas de "shadowing" improductivo en llamadas por Zoom y flujos de inducción basados en la memoria del líder técnico.
+1. **El "Status Quo" (Competencia Principal):** La desorganización interna. Archivos README desactualizados, horas de "shadowing" improductivo en llamadas por Zoom y flujos de inducción basados en la memoria del líder técnico.
 2. **Plataformas de Onboarding Tradicionales:** Herramientas como BambooHR o Workday que ofrecen módulos de onboarding pero sin la gamificación ni la integración específica para desarrolladores.
 3. **Sistemas de Gestión de Conocimiento:** Plataformas como Confluence o Notion que pueden ser utilizadas para documentar procesos pero no ofrecen una experiencia interactiva ni automatizada para el onboarding de desarrolladores.
 4. **Reducción masiva de personal por IA:** La tendencia creciente de empresas que reemplazan roles técnicos con soluciones de inteligencia artificial reduce la cantidad de nuevas contrataciones de desarrolladores, achicando directamente el mercado objetivo de la plataforma.
@@ -89,7 +89,7 @@ El producto se ofrece bajo dos modalidades estratégicas para cubrir tanto la ag
 * **Proyectos Custom Enterprise (Desarrollo a Medida):** Opción de generar un ecosistema de aprendizaje y evaluación diseñado desde cero para las particularidades técnicas y culturales de empresas de gran envergadura. Incluye la creación de misiones exclusivas que integran flujos de trabajo internos y arquitecturas propietarias.
 * **Funcionalidades Core:** Gamificación mediante árboles de habilidades, validaciones automáticas de *pull requests*, asistente RAG entrenado con documentación interna y análisis estático inteligente mediante IA.
 * **Productos Asociados y Expansión del Ecosistema**: DevQuest no es un producto único, sino el núcleo de un ecosistema de soluciones complementarias que se desprenden naturalmente de la plataforma base:
-  * **DevQuest Certification Tracks**: Árboles de habilidades co-creados con entidades certificadoras (Ej. AWS, Linux Foundation, Scrum.org) que, al completarse, otorgan al desarrollador vouchers de descuento o créditos para rendir certificaciones oficiales. Genera valor tanto para el empleado como para la empresa.
+  * **DevQuest Certification Tracks**: Árboles de habilidades co-creados con entidades certificadoras (Ej. AWS, Linux Foundation, Scrumorg) que, al completarse, otorgan al desarrollador vouchers de descuento o créditos para rendir certificaciones oficiales. Genera valor tanto para el empleado como para la empresa.
   * **DevQuest Analytics**: Panel de inteligencia de talento para CTOs y Engineering Managers que cruza el desempeño en las misiones de onboarding con métricas de productividad real posteriores, permitiendo predecir qué perfiles se integran mejor y más rápido según la cultura técnica de la empresa.
   * **DevQuest Academy**: Versión adaptada de la plataforma orientada a universidades y bootcamps de programación, donde los árboles de habilidades simulan entornos reales de trabajo, reduciendo el gap entre la formación académica y las exigencias del mercado laboral.
   * **DevQuest for Teams**: Módulo de reskilling y upskilling para empleados existentes que necesitan adoptar una nueva tecnología, stack o arquitectura dentro de la misma empresa. Extiende el ciclo de vida del cliente más allá del onboarding inicial.
@@ -116,7 +116,9 @@ El modelo de negocio se divide en dos grandes vías de monetización, diferencia
 
 Esta fórmula contempla el crecimiento de la base de clientes que utilizan el sistema estándar con los árboles de habilidades precreados.
 
-$$Ingresos_{SaaS} = \sum_{k} (Precio\_Plan_k \cdot q_{empresas\_k})$$
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t6_1.png" alt="Fórmula de Proyección de Ingresos">
+</p>
 
 *Donde 'k' representa los planes (Starter, Growth) y 'q' representa la cantidad de empresas activas.*
 
@@ -124,7 +126,9 @@ $$Ingresos_{SaaS} = \sum_{k} (Precio\_Plan_k \cdot q_{empresas\_k})$$
 
 Para proyectos donde se genera un árbol específico y un sistema propietario para empresas grandes, se capitaliza tanto la implementación de la app como el mantenimiento recurrente.
 
-$$Ingresos_{Custom} = \sum (Costo\_Des\_Men \cdot n_{meses\_dev}) + \sum (Costo\_Mant \cdot q_{contratos\_soporte})$$
+<p align="center">
+  <img src="../assets/images/formula-ingresos_t6_2.png" alt="Fórmula de Proyección de Ingresos">
+</p>
 
 *Donde el costo de desarrollo mensual es de aproximadamente USD \$4.000 y el mantenimiento varía según el nivel de atención acordado.*
 
