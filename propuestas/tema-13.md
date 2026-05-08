@@ -152,3 +152,39 @@ Dado que el cliente es B2B e institucional, la captación se centra en ventas co
 * **Venta Consultiva (Outbound B2B):** Contacto directo con dirigentes de la Primera B y C, ofreciendo una "Auditoría de Recaudación".
 * **Calculadoras de ROI:** Herramientas interactivas donde el tesorero del club pueda ingresar su cantidad de socios y el valor de la cuota, y el sistema le calcule de forma tangible cuánto dinero adicional ingresaría mensualmente al aplicar la tecnología de retención y QR dinámico.
 * **Networking Estratégico:** Asistencia a reuniones de comité, asambleas de representantes y alianzas con consultoras de *Sports Management* que actúen como puente de confianza entre la dirigencia del club y nuestra tecnología.
+
+
+## Análisis Competitivo y Estrategia de Posicionamiento
+
+Para validar la viabilidad comercial de **SocioUnido**, es fundamental contrastar nuestra propuesta de valor contra los sistemas de gestión deportiva actuales que dominan el mercado del fútbol argentino, tomando como caso de referencia al principal competidor: *Global.fan*.
+
+### 1. Cuadro Comparativo
+
+| Característica / Enfoque | Competidores Actuales (Ej. Global.fan) | SocioUnido |
+| :--- | :--- | :--- |
+| **Naturaleza del Sistema** | Administrativo y Reactivo (CRUD avanzado). | Predictivo y Proactivo (Basado en IA). |
+| **Gestión de Morosidad** | Reporta al usuario que **ya dejó** de pagar. | Predice quién **va a dejar** de pagar (Machine Learning) y acciona preventivamente. |
+| **Control de Accesos** | QR dinámico estándar (Depende de buena conectividad del usuario y del molinete). | **Smart Access (TOTP):** Generación de token criptográfico 100% offline. Alta tolerancia a caídas de red en estadios. |
+| **Canales de Atención** | Interfaz cerrada (El socio está obligado a ingresar a la App/Web para operar). | **Omnicanalidad NLP:** El socio puede pagar o consultar enviando un audio mediante WhatsApp. |
+| **Enfoque de Mercado** | Captación agresiva orientada a la Primera División y clubes de básquet/vóley grandes. | **Estrategia de Nicho (Go-To-Market):** Foco quirúrgico en B Metropolitana, Primera C y Primera Nacional. |
+
+---
+
+### 2. Diferenciales Técnicos y de Negocio Clave
+
+Para superar la oferta actual, SocioUnido no compite en ser un "mejor sistema contable", sino que se posiciona como una **herramienta de inteligencia de negocios y ciberseguridad** que resuelve problemas físicos y operativos reales de los clubes:
+
+* **La Realidad del Molinete (Smart Access Offline):** En los minutos previos a un partido, la aglomeración de gente hace colapsar las redes 4G en las inmediaciones del estadio. Si un carnet digital requiere conexión en ese instante para ser validado, el embudo de ingreso fracasa. SocioUnido utiliza tecnología de **Tokens TOTP** (Time-Based One-Time Password); la aplicación genera un código criptográfico válido sin necesidad de internet, y el molinete lo valida matemáticamente. Es una solución de alta ingeniería para un cuello de botella físico.
+* **Retención vs. Cobranza (El Motor Predictivo):** Los sistemas tradicionales entregan listas de morosos para gestión telefónica. SocioUnido analiza datos históricos de asistencia y pagos. Si un socio con asistencia perfecta falta a dos partidos consecutivos, el algoritmo detecta el "riesgo de baja" y dispara acciones automáticas de marketing (Ej. "¡Te extrañamos en la tribuna! Pagá tu cuota acá con un beneficio exclusivo"). Esto transforma la cobranza de deudas en **salvataje de capital**.
+* **Fricción Cero en Transacciones (Asistente NLP):** Obligar al hincha a descargar una app adicional, recordar credenciales y loguearse para pagar una cuota atrasada genera fricción. Al habilitar un bot de WhatsApp que entiende lenguaje natural (audios y texto) y devuelve links de pago directos (ej. MercadoPago), se incrementa drásticamente la tasa de conversión y regularización de pagos.
+
+---
+
+### 3. Estrategia de Proyección y Go-To-Market
+
+Nuestra visión comercial reconoce que intentar desplazar a los competidores instalados en los grandes clubes de la Liga Profesional requiere un desgaste político e institucional inviable para una fase inicial. 
+
+Por lo tanto, la estrategia de penetración de SocioUnido se enfoca en el ecosistema del **Ascenso Metropolitano y la Primera Nacional**. 
+
+* **El Argumento de Venta:** Llevamos tecnología de Primera División a clubes donde el contacto con la dirigencia es directo, la política es cercana y el "dolor" económico de perder 100 cuotas sociales (o sufrir fraude en los ingresos) impacta directamente en el presupuesto operativo del mes. 
+* **El Modelo:** Mediante nuestro modelo de cobro SaaS escalonado, el club adopta una solución de alta tecnología sin desfinanciarse, ya que el sistema absorbe su propio costo al tapar las fugas de capital preexistentes.
