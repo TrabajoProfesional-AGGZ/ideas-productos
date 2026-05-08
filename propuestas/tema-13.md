@@ -119,19 +119,29 @@ Nuestra fase inicial de comercialización **no** apuntará a los equipos de éli
 
 ### Precio
 
+#### Fórmulas de precio y Proyección de Ingresos
+
 La estrategia de monetización de SocioUnido se basa en un "Pricing basado en el Valor" estructurado en tres componentes, como refleja nuestra proyección de ingresos:
 
-<p align="center">
-  <img src="../assets/images/formula-ingresos_t13.png" alt="Fórmula de Proyección de Ingresos">
-</p>
+$$Ingresos = \\ (Setup\_Fee \cdot q_{new\_clu.}) + \sum_{k} (SaaS\_Subs._k \cdot q_{act\_clu.\_k}) + (Mark.\_CPA \cdot q_{trans.})$$
 
 1. **Setup Fee (Pago Único):** Cobro inicial por la configuración de la cuenta, migración de la base de datos del padrón de socios y la integración técnica con los molinetes del estadio.
 2. **Suscripción Mensual SaaS B2B:** Tarifa escalonada basada en el volumen de socios activos del club. El costo se justifica ante la dirigencia, ya que se "paga solo" con el recupero de cuotas atrasadas y la eliminación de colados en la cancha.
 3. **Marketplace CPA (Módulo Opcional de Monetización Conjunta):** SocioUnido habilita la app del hincha como un canal publicitario segmentado para sponsors o marcas deportivas. **Este servicio es opcional y negociable con cada club**. Si el club decide activarlo, SocioUnido cobra un porcentaje (CPA/Revenue Share) sobre el total de la pauta publicitaria generada, a cambio de encargarse de la gestión técnica, integración y el formateo correcto de las campañas dentro de la app.
 
-####
+#### Estimación de Precios
 
+La referencia incluye sistemas de gestión de clubes como *TeamSnap* o soluciones locales como *SocioPlus*. Se prioriza el "Setup Fee" para cubrir costos de integración inicial y una suscripción mensual que escale con el club.
 
+* **Precio moderado propuesto:**
+  * **Setup Fee (Pago único):** \$4000 USD/mes (Cubre migración e integración).
+  * **Suscripción Mensual (Avg.):** $200 USD (Para clubes de la B y C con ~2000-5000 socios).
+  * **Marketplace CPA:** 5% de la pauta gestionada (Opcional).
+* **Estimación de ingresos (Año 1):**
+  Enfocándose en la Fase 1 (Entre Primera B y C = 87 clubes), con una penetración del ~12% (10 clubes):
+  * **Setup Fees (10 clubes):** $20.000 USD (Se estima un tiempo de 2 semanas de integración promedio por club).
+  * **Suscripciones Mensuales (10 clubes):** $2.000 USD/mes.
+  * **Flujo proyectado (Año 1 total):** **$44.000 USD anuales** (Sin contar Marketplace CPA, que podría añadir un 10-15% adicional según el volumen de sponsors).
 
 ### Promoción
 
