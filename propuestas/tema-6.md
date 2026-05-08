@@ -81,15 +81,19 @@ Estrategia del producto:
 
 ### Producto
 
-**DevQuest** es un servicio intangible (Plataforma SaaS) diseñado para satisfacer la necesidad de acelerar la curva de aprendizaje de nuevos desarrolladores y descomprimir la carga operativa sobre los líderes técnicos dentro de las empresas de tecnología.
+**DevQuest** es una plataforma integral diseñada para optimizar el ciclo de vida del desarrollador dentro de las organizaciones y descomprimir la carga operativa sobre los líderes técnicos dentro de las empresas de tecnología.
 
-* **Funcionalidad Core**: Plataforma gamificada que transforma el proceso de onboarding en un árbol de habilidades con misiones interactivas. Combina validaciones automáticas de *pull requests*, integración directa con repositorios de código (GitHub, GitLab, Bitbucket), un asistente RAG entrenado con la documentación interna de cada empresa y análisis estático inteligente mediante IA para revisar el código de los nuevos empleados.
+El producto se ofrece bajo dos modalidades estratégicas para cubrir tanto la agilidad de las startups como las necesidades de personalización de las grandes corporaciones:
+
+* **Modelo SaaS Estándar (Sistema Base):** Una solución "llave en mano" con árboles de habilidades precreados para los stacks tecnológicos más comunes (React, Node.js, Python, etc.). Permite una implementación inmediata para empresas que buscan estandarizar su onboarding sin grandes inversiones de tiempo.
+* **Proyectos Custom Enterprise (Desarrollo a Medida):** Opción de generar un ecosistema de aprendizaje y evaluación diseñado desde cero para las particularidades técnicas y culturales de empresas de gran envergadura. Incluye la creación de misiones exclusivas que integran flujos de trabajo internos y arquitecturas propietarias.
+* **Funcionalidades Core:** Gamificación mediante árboles de habilidades, validaciones automáticas de *pull requests*, asistente RAG entrenado con documentación interna y análisis estático inteligente mediante IA.
 * **Productos Asociados y Expansión del Ecosistema**: DevQuest no es un producto único, sino el núcleo de un ecosistema de soluciones complementarias que se desprenden naturalmente de la plataforma base:
   * **DevQuest Certification Tracks**: Árboles de habilidades co-creados con entidades certificadoras (Ej. AWS, Linux Foundation, Scrum.org) que, al completarse, otorgan al desarrollador vouchers de descuento o créditos para rendir certificaciones oficiales. Genera valor tanto para el empleado como para la empresa.
   * **DevQuest Analytics**: Panel de inteligencia de talento para CTOs y Engineering Managers que cruza el desempeño en las misiones de onboarding con métricas de productividad real posteriores, permitiendo predecir qué perfiles se integran mejor y más rápido según la cultura técnica de la empresa.
   * **DevQuest Academy**: Versión adaptada de la plataforma orientada a universidades y bootcamps de programación, donde los árboles de habilidades simulan entornos reales de trabajo, reduciendo el gap entre la formación académica y las exigencias del mercado laboral.
   * **DevQuest for Teams**: Módulo de reskilling y upskilling para empleados existentes que necesitan adoptar una nueva tecnología, stack o arquitectura dentro de la misma empresa. Extiende el ciclo de vida del cliente más allá del onboarding inicial.
-* **Ciclo de Vida**: En su fase inicial, el producto se centrará en la adquisición de software factories y startups tecnológicas argentinas como primeros adoptantes. La secuencia de lanzamiento de productos asociados sigue el orden: primero DevQuest Core, luego Analytics (para profundizar el valor en cuentas existentes), luego Certification Tracks (para reducir CAC vía partnerships) y finalmente Academy y Teams como vectores de expansión de mercado.
+* **Ciclo de Vida**: En su fase inicial, el producto se centrará en la adquisición de software factories y startups tecnológicas argentinas como primeros adoptantes. La secuencia de lanzamiento de productos asociados sigue el orden: Primero DevQuest Core, luego Analytics (Para profundizar el valor en cuentas existentes), luego Certification Tracks (para reducir CAC vía partnerships) y finalmente Academy y Teams como vectores de expansión de mercado.
 
 ### Plaza
 
@@ -97,29 +101,50 @@ Al ser una solución 100% digital orientada al mercado B2B, la "plaza" se define
 
 * **Canales de Distribución**: Plataforma Web (SaaS) accesible desde navegadores, tanto para la vista del desarrollador (misiones y progreso) como para el panel de administración del líder técnico. La distribución comercial se realiza mediante un sitio web corporativo con modelo de auto-suscripción y un canal de ventas directo (outbound) para cuentas empresariales (Enterprise).
 * **Segmentación del Mercado Argentino**: El mercado objetivo inicial son empresas tecnológicas argentinas con equipos de desarrollo activos. Según datos del sector IT local, Argentina cuenta con más de 4.000 empresas de software registradas (CESSI), de las cuales se estima que un subconjunto relevante incorpora entre 1 y 3 desarrolladores nuevos por mes. Segmentando de forma conservadora:
-  * **P1 – Software Factories (50-200 empleados):** Mayor rotación y volumen constante de incorporaciones. Adopción temprana más probable por cultura de proceso.
-  * **P2 – Startups tecnológicas en crecimiento (10-50 empleados):** Alta necesidad de escalar equipos rápido sin frenar la producción. Sensibles al precio pero con alta disposición a pagar si el ROI es claro.
+  * **P1 – Startups tecnológicas en crecimiento (10-50 empleados):** Alta necesidad de escalar equipos rápido sin frenar la producción. Sensibles al precio pero con alta disposición a pagar si el ROI es claro.
+  * **P2 – Software Factories (50-200 empleados):** Mayor rotación y volumen constante de incorporaciones. Adopción temprana más probable por cultura de proceso.
   * **P3 – Empresas consolidadas con área de IT (200+ empleados):** Proceso de venta más largo pero contratos de mayor valor (Enterprise).
-* **Proyección de Ingresos**: Los ingresos totales se calcularán sumando las fuentes de monetización por segmento: la cantidad de empresas suscriptas multiplicada por la tarifa mensual según el plan contratado (escalado por cantidad de seats activos).
-
-<p align="center">
-  <img src="../assets/images/formula-ingresos_t6.png" alt="Fórmula de Proyección de Ingresos">
-</p>
-
 * **Expansión del Ecosistema vía Alianzas de Certificación (Partnerships y Sponsoreo Mutuo)**: La "Plaza" trasciende la venta directa B2B al transformar la plataforma en un validador práctico de habilidades avalado por la industria. DevQuest actúa como ecosistema donde el cumplimiento de ciertos árboles de habilidades otorga vouchers para certificaciones oficiales. A cambio, las instituciones certificadoras patrocinan la plataforma, validan el contenido técnico e incluyen a DevQuest en sus redes de partners corporativos. Esta simbiosis disminuye drásticamente el Costo de Adquisición de Clientes (CAC) gracias a la transferencia de autoridad y reputación de marca de los sponsors.
 
 ### Precio
 
-El modelo de monetización se basa en una estructura de suscripción SaaS B2B por seats, aplicando una estrategia de **precio por valor**: el precio se justifica por el ahorro directo en horas de líderes técnicos senior, cuyo costo hora en el mercado argentino IT ronda los **USD 25-40/hora**. Un proceso de onboarding manual típico consume entre 20 y 40 horas de atención de un senior o líder técnico por cada nuevo ingresante. DevQuest apunta a reducir ese costo en un 70%, generando un ahorro de entre **USD 350 y USD 1.120 por developer onboarded**, lo que fundamenta con claridad el precio de la suscripción.
+#### Fórmulas de precio
 
-| Plan | Descripción | Precio estimado |
+El modelo de negocio se divide en dos grandes vías de monetización, diferenciando el producto de escala (SaaS) del producto de consultoría y desarrollo a medida:
+
+**Caso A: Ingresos por Suscripción SaaS (Recurrente)**
+
+Esta fórmula contempla el crecimiento de la base de clientes que utilizan el sistema estándar con los árboles de habilidades precreados.
+
+$$Ingresos_{SaaS} = \sum_{k} (Precio\_Plan_k \cdot q_{empresas\_k})$$
+
+*Donde 'k' representa los planes (Starter, Growth) y 'q' representa la cantidad de empresas activas.*
+
+**Caso B: Ingresos por Proyectos Enterprise (Desarrollo a Medida + Soporte)**
+
+Para proyectos donde se genera un árbol específico y un sistema propietario para empresas grandes, se capitaliza tanto la implementación de la app como el mantenimiento recurrente.
+
+$$Ingresos_{Custom} = \sum (Costo\_Des\_Men \cdot n_{meses\_dev}) + \sum (Costo\_Mant \cdot q_{contratos\_soporte})$$
+
+*Donde el costo de desarrollo mensual es de aproximadamente USD \$4.000 y el mantenimiento varía según el nivel de atención acordado.*
+
+#### Estimación de ingresos
+
+El modelo se basa en una estrategia de **precio por valor**, cuantificando el ahorro directo en horas de líderes técnicos senior.
+
+| Plan / Servicio | Descripción | Precio Estimado |
 | :--- | :--- | :---: |
-| **Starter** | Hasta 3 seats activos/mes. Árboles de habilidades estándar, integraciones con GitHub/GitLab, asistente RAG básico. | **USD 49/mes** |
-| **Growth** | Hasta 10 seats activos/mes. Todo lo anterior + analytics de progreso, customización de misiones y soporte por email. | **USD 129/mes** |
-| **Enterprise** | Seats ilimitados. Todo lo anterior + asistente RAG entrenado con documentación interna privada, métricas avanzadas, SLA y soporte dedicado. | **A convenir** |
+| **SaaS Starter** | Hasta 3 seats. Árboles estándar y asistente RAG básico. | **USD \$49/mes** |
+| **SaaS Growth** | Hasta 10 seats. Customización de misiones y analytics. | **USD \$129/mes** |
+| **Enterprise Custom** | Desarrollo de árbol específico y sistema propietario. | **USD \$4.000 / Mes de dev** |
+| **Mantenimiento Básico** | Atención básica, estabilidad y tickets comunes. | **USD \$500/mes** |
+| **Soporte Premium** | Atención inmediata, específica y soporte dedicado. | **USD \$1.000/mes** |
 
-* **Lógica de precio por ROI**: Una empresa que onboardea 2 developers por mes en el plan Starter paga USD 49 y ahorra en promedio USD 700-1.400 en horas de senior. El retorno sobre la inversión (ROI) es de entre **14x y 28x**, lo que convierte el precio en una decisión prácticamente libre de fricción para cualquier líder técnico que haga el cálculo.
-* **Precio de penetración inicial**: Durante los primeros 6 meses de lanzamiento, el plan Starter se ofrece a **USD 29/mes** como estrategia de adquisición de early adopters y generación de casos de éxito reales que alimenten el content marketing y el proceso de ventas Enterprise.
+* **Lógica de ROI:** Una empresa que onboardea 2 developers al mes en el plan Starter ahorra en promedio entre 14x y 28x su inversión en comparación con el costo de horas de un líder técnico senior.
+* **Estimación de ingresos (Año 1):**
+    * **Captura SaaS (~90 clientes):** 60 clientes Starter y 30 Growth generan un subtotal de **USD \$6.540 mensuales**.
+    * **Proyectos Custom Enterprise:** Suponiendo 2 desarrollos a medida de 3 meses cada uno en el año (\$24.000 USD de inyección) y sus respectivos contratos de mantenimiento premium (\$2.000 USD/mes).
+    * **Flujo proyectado combinado:** Ingresos recurrentes por **USD \$8.540 mensuales**, más capital variable por desarrollo.
 
 ### Promoción
 
@@ -127,7 +152,7 @@ Representa todos los métodos de comunicación para traccionar demos, pruebas gr
 
 * **Corto plazo – Tracción orgánica (0 a 6 meses):**
   * **Word of Mouth en la comunidad dev**: Es el motor principal de adquisición inicial. Un CTO que adopta DevQuest y tiene una buena experiencia lo recomienda naturalmente en sus círculos de confianza (Slack communities, grupos de WhatsApp de tech leads, meetups). Se fomenta activamente con un programa de referidos: cada empresa que refiere un nuevo cliente recibe un mes de suscripción gratuita.
-  * **Content Marketing Técnico**: Publicación de artículos, casos de estudio y benchmarks sobre el costo oculto del onboarding en empresas de software, posicionando a DevQuest como referente de autoridad. Canales: Dev.to, Medium, LinkedIn y newsletters especializadas en engineering management como *Software Lead Weekly*.
+  * **Content Marketing Técnico**: Publicación de artículos, casos de estudio y benchmarks sobre el costo oculto del onboarding en empresas de software, posicionando a DevQuest como referente de autoridad. Canales: Devto, Medium, LinkedIn y newsletters especializadas en engineering management como *Software Lead Weekly*.
 
 * **Mediano plazo – Amplificación pagada (6 a 18 meses):**
   * **LinkedIn Ads segmentado**: Pauta publicitaria orientada a cargos como CTO, Engineering Manager y Head of People en empresas IT argentinas. Estimación conservadora: un presupuesto inicial de **USD 300-500/mes** apuntando a un CPL (Costo por Lead) de USD 15-25, lo que genera entre 12 y 33 leads calificados mensuales.

@@ -96,7 +96,7 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 
 ## Análisis de las 4 Ps
 
-### 1. Producto (Product)
+### Producto
 
 #### Productos principales a lanzar
 
@@ -104,12 +104,12 @@ Una plataforma financiera colaborativa e integral diseñada para automatizar la 
 * **Suscripción Premium (Valor Diferencial):** Experiencia sin anuncios con acceso a proyecciones avanzadas de IA (inflación), dashboards históricos completos y otras funcionalidades especiales.
 * **Canales B2B2C (Retail Partnering):** Alianzas estratégicas con comercios y bancos para desplegar campañas de beneficios dinámicos y descuentos exclusivos dentro de la interfaz.
 
-### Productos potenciales a futuro
+#### Productos potenciales a futuro
 
 * **Marketplace de Terceros (Lead Generation):** Hub transaccional donde entidades financieras y de seguros ofrecen productos segmentados según el patrón de consumo del usuario.
 * **Servicio de Fact Finding (Análisis de Datos):** Generación de reportes agregados sobre tendencias de consumo para partners estratégicos, manteniendo la privacidad del usuario.
 
-### 2. Plaza (Place)
+### Plaza
 
 La distribución es 100% digital a través de tiendas de aplicaciones (App Store y Google Play) y entorno web, permitiendo un acceso ubicuo sin barreras geográficas.
 
@@ -123,24 +123,41 @@ Para reducir la incertidumbre, aplicamos una estimación basada en el razonamien
 4. **Mercado Disponible (SAM):** Usuarios de billeteras virtuales y banca digital (Estimado en 45% de penetración) → **~3.132.000 usuarios potenciales**.
 5. **Mercado Objetivo (TAM - Año 1):** Con una penetración conservadora del 1,5%, el objetivo es capturar **~47.000 usuarios activos**.
 
-### 3. Precio (Price)
+### Precio
 
 Se aplica una estrategia de **precio de penetración** para fomentar la adopción masiva y competir contra soluciones informales o herramientas genéricas.
 
+#### Fórmulas de precio y Proyección de Ingresos
+
+El cálculo de ingresos totales anuales se rige por la suma de la monetización de los segmentos Premium y Gratuitos, más las integraciones corporativas:
+
+$$Ingresos = (q_{Premium} \cdot Tari\_Prom) + (q_{Gratu} \cdot ARPU_{Publi}) + Comisiones_{B2B}$$
+
+*Donde 'q' representa la cantidad de usuarios activos en cada respectivo segmento.*
+
 #### Estructura de Precios Estimados:
 
-* **Plan Gratuito ($0):** Financiado mediante redes de publicidad (AdMob).
-* **Premium Individual ($1.800/mes):** Basado en la percepción de valor de "paz mental" y mejores funcionalidades.
-* **Premium Hogar ($4.500/mes):** Plan familiar para hasta 4 usuarios, incentivando el uso colaborativo y la retención.
+* **Plan Gratuito (\$0):** Financiado mediante redes de publicidad (AdMob).
+* **Premium Individual (\$1 USD/mes):** Basado en la percepción de valor de "paz mental" y mejores funcionalidades.
+* **Premium Hogar (\$3 USD/mes):** Plan familiar para hasta 4 usuarios, incentivando el uso colaborativo y la retención.
 * **Comisiones B2B:** Se estima una comisión de éxito de entre el **3% y 7%** por cada producto financiero o servicio contratado vía Marketplace.
 
-#### Proyección de Ingresos
+#### Estimación de Precios
 
-El cálculo de ingresos totales anuales se rige por la suma de la monetización de los segmentos Premium y Gratuitos:
+Dado el contexto argentino, se opta por un micro-precio que no represente una barrera de entrada para jóvenes y familias.
 
-**Ingresos = (N° Usuarios Premium × Tarifa) + (N° Usuarios Gratuitos × ARPU Publicitario) + Comisiones B2B**
+* **Precio moderado propuesto:**
+  * **Premium Individual:** \$1,00 USD/mes.
+  * **Premium Hogar:** \$3,00 USD/mes.
+  * **ARPU Publicitario (Free):** \$0,05 USD/mes por usuario activo.
+* **Estimación de ingresos (Año 1):**
+  Sobre el objetivo de 47.000 usuarios activos mensuales:
+  * **Conversión Premium (5%):** 2.350 usuarios (mezcla individual/hogar avg. \$2,00 USD) = \$4.700 USD/mes.
+  * **Monetización Free (95%):** 44.650 usuarios x \$0,05 USD ARPU = \$2.232 USD/mes.
+  * **Comisiones B2B (Est.):** ~\$1.000 USD/mes por *leads* financieros.
+  * **Flujo proyectado:** **\$7.932 USD mensuales** (~\$95.184 USD anuales).
 
-### 4. Promoción (Promotion)
+### Promoción
 
 La estrategia se centra en la viralidad inherente del producto y la educación financiera.
 
@@ -152,7 +169,7 @@ La estrategia se centra en la viralidad inherente del producto y la educación f
 
 Para alcanzar los 47.000 usuarios anuales (~3.900 nuevos usuarios/mes) con un presupuesto eficiente:
 
-* **Inversión Mensual:** **$1.500.000 ARS**.
+* **Inversión Mensual:** **\$1.000 USD**.
 * **Distribución:** 70% en pauta digital para captar "usuarios semilla" y 30% en contenido educativo/social.
-* **Estrategia de Adquisición:** La inversión paga captará ~750 usuarios mensuales (CAC de $2.000 ARS). Gracias al factor de viralidad (Cada usuario invita a sus convivientes), estos 750 usuarios atraerán orgánicamente a los ~3.150 restantes necesarios para cumplir la meta mensual.
+* **Estrategia de Adquisición:** La inversión paga captará ~750 usuarios mensuales (CAC de \$1.5 USD). Gracias al factor de viralidad (Cada usuario invita a sus convivientes), estos 750 usuarios atraerán orgánicamente a los ~3.150 restantes necesarios para cumplir la meta mensual.
 * **Ajuste Dinámico:** El presupuesto se optimizará mensualmente según la tasa de recomendación real observada entre los usuarios.

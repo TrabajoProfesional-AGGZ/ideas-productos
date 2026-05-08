@@ -129,6 +129,10 @@ La estrategia de monetización de SocioUnido se basa en un "Pricing basado en el
 2. **Suscripción Mensual SaaS B2B:** Tarifa escalonada basada en el volumen de socios activos del club. El costo se justifica ante la dirigencia, ya que se "paga solo" con el recupero de cuotas atrasadas y la eliminación de colados en la cancha.
 3. **Marketplace CPA (Módulo Opcional de Monetización Conjunta):** SocioUnido habilita la app del hincha como un canal publicitario segmentado para sponsors o marcas deportivas. **Este servicio es opcional y negociable con cada club**. Si el club decide activarlo, SocioUnido cobra un porcentaje (CPA/Revenue Share) sobre el total de la pauta publicitaria generada, a cambio de encargarse de la gestión técnica, integración y el formateo correcto de las campañas dentro de la app.
 
+####
+
+
+
 ### Promoción
 
 Dado que el cliente es B2B e institucional, la captación se centra en ventas corporativas y relaciones públicas:
