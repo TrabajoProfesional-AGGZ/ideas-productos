@@ -90,7 +90,7 @@ Desarrollo de una plataforma SaaS (Software as a Service) B2B que centraliza la 
 SocioUnido es una plataforma SaaS B2B modular diseñada exclusivamente para la realidad del fútbol argentino. Es un ecosistema compuesto por cuatro pilares:
 
 * **Dashboard Administrativo (Web):** Centro de comando para la comisión directiva y gerencia, con métricas de recaudación, morosidad, accesos y gestión de espacios/servicios brindados.
-* **Aplicación del Hincha/Socio (PWA/Mobile):** Interfaz para el usuario final. Contiene su carnet digital (QR), pagos de cuota social, compra de abonos, plataforma de alquiler de espacios/servicios y acceso a noticias o tienda del club.
+* **Aplicación del Hincha/Socio (PWA/Mobile):** Interfaz para el usuario final. Contiene su carnet digital (QR), pagos de cuota social, compra de abonos, **módulo integrado para la compra y venta de entradas a los partidos**, plataforma de alquiler de espacios/servicios y acceso a noticias o tienda del club.
 * **Canal Conversacional:** Bot de WhatsApp con NLP para consultas de los hinchas y gestión de pagos automatizada.
 * **Módulo de Alta Concurrencia (Estadios):** Generación de Tokens TOTP (QR dinámico offline) capaz de validar miles de accesos por minuto sin depender de la red WiFi/4G del estadio (Implementación futura, no considerada en un primer MVP).
 
@@ -112,10 +112,11 @@ Para definir nuestra estrategia de penetración, analizamos la estructura del f�
 
 #### Estrategia de Penetración de Mercado (Go-To-Market):
 
-Nuestra fase inicial de comercialización **no** apuntará a los equipos de élite. Nos enfocaremos estratégicamente en los clubes que se encuentran entre la **Primera B Metropolitana** y la **Primera C**. 
+Nuestra fase inicial de comercialización **no** apuntará a los equipos de élite. Nos enfocaremos estratégicamente en los clubes que se encuentran entre la **Primera B Metropolitana** y la **Primera C** (87 clubes en total). 
 
 * **Justificación de Fase 1:** La magnitud y estructura organizacional de estos clubes nos permite acceder directamente a los tomadores de decisión (Presidentes o Tesoreros) de manera mucho más ágil, esquivando la densa burocracia y los contratos exclusivos preexistentes de los equipos de Primera División. Es un nicho con necesidades tecnológicas urgentes y presupuestos que justifican la inversión.
-* **Visión a Largo Plazo (Fase 2):** Una vez consolidado el producto en el ascenso metropolitano, utilizaremos los casos de éxito, las métricas de mejora en la recaudación y las buenas reseñas operativas para escalar progresivamente hacia la **Primera Nacional** y, finalmente, la **Liga Profesional**. 
+
+* **Visión a Largo Plazo (Fase 2):** Una vez consolidado el producto en el ascenso metropolitano, utilizaremos los casos de éxito, las métricas de mejora en la recaudación y las buenas reseñas operativas para escalar progresivamente hacia la **Primera Nacional** y, finalmente, la **Liga Profesional** (Ascendiendo con estas 2 categorías hasta 153 clubes objetivos totales). 
 
 ### Precio
 
@@ -127,23 +128,24 @@ La estrategia de monetización de SocioUnido se basa en un "Pricing basado en el
   <img src="../assets/images/formula-ingresos_t13.png" alt="Fórmula de Proyección de Ingresos">
 </p>
 
-1. **Setup Fee (Pago Único):** Cobro inicial por la configuración de la cuenta, migración de la base de datos del padrón de socios y la integración técnica con los molinetes del estadio.
-2. **Suscripción Mensual SaaS B2B:** Tarifa escalonada basada en el volumen de socios activos del club. El costo se justifica ante la dirigencia, ya que se "paga solo" con el recupero de cuotas atrasadas y la eliminación de colados en la cancha.
-3. **Marketplace CPA (Módulo Opcional de Monetización Conjunta):** SocioUnido habilita la app del hincha como un canal publicitario segmentado para sponsors o marcas deportivas. **Este servicio es opcional y negociable con cada club**. Si el club decide activarlo, SocioUnido cobra un porcentaje (CPA/Revenue Share) sobre el total de la pauta publicitaria generada, a cambio de encargarse de la gestión técnica, integración y el formateo correcto de las campañas dentro de la app.
+1. **Setup Fee (Pago Único por Digitalización):** Para los **primeros clientes**, este proceso de configuración e integración será **100% gratuito**. El objetivo es facilitar la adopción, penetrar la industria y generar casos de éxito comprobables. Como contraprestación por esta bonificación, el club deberá aportar personal para acelerar la migración lo más pronto posible y comprometerse a promocionar el nuevo sistema tanto ante otras instituciones deportivas como hacia el público general, dándonos visibilidad. En etapas posteriores de crecimiento, este setup pasará a tener un valor variable basado en la cantidad de socios a digitalizar.
+2. **Suscripción Mensual Híbrida (Fijo + Transaccional):** Se abandona el modelo de tarifa plana pura por un sistema mixto. Incluye un costo fijo escalonado por volumen de socios (Que garantiza el mantenimiento del sistema) sumado a un porcentaje (Fee) sobre cada transacción realizada dentro de la plataforma (Pagos de cuotas, compra de entradas, alquileres). El costo se justifica ante la dirigencia, ya que se "paga solo" con el recupero de cuotas atrasadas y la optimización del alquiler de espacios institucionales.
+3. **Marketplace CPA (Módulo Opcional de Monetización Conjunta):** SocioUnido habilita la app del hincha como un canal publicitario y de beneficios segmentado. **Este servicio es opcional y las ganancias generadas desde la visualización de la app se distribuyen según el origen del acuerdo comercial**:
+   - **Alianzas propias del club:** Si la propaganda o los beneficios provienen de marcas y convenios gestionados directamente por el club, la aplicación se queda con un **10%** del total en concepto de soporte técnico, integración y formateo correcto de la misma.
+   - **Empresas provistas por SocioUnido:** Si la plataforma es la que acerca e introduce a las empresas de terceros para pautar en la interfaz, la ganancia neta se divide en un **75% para el club y un **25% para la aplicación**.
 
 #### Estimación de Precios
 
-La referencia incluye sistemas de gestión de clubes como *TeamSnap* o soluciones locales como *SocioPlus*. Se prioriza el "Setup Fee" para cubrir costos de integración inicial y una suscripción mensual que escale con el club.
-
 * **Precio moderado propuesto:**
-  * **Setup Fee (Pago único):** \$4000 USD/mes (Cubre migración e integración).
-  * **Suscripción Mensual (Avg.):** $200 USD (Para clubes de la B y C con ~2000-5000 socios).
-  * **Marketplace CPA:** 5% de la pauta gestionada (Opcional).
-* **Estimación de ingresos (Año 1):**
+  * **Setup Fee (Pago único):** **$0 USD (Bonificado)** para los primeros clientes a cambio de co-marketing y asistencia en la migración. A futuro, costo fijo a determinar según padrón societario.
+  * **Suscripción Mensual Híbrida:** * **Cargo Fijo:** Entre **$200 USD y $800 USD**. Este tope máximo es estrictamente indicativo para los clubes objetivo de esta primera fase (Ascenso), estimado en base a su volumen de socios. Al escalar a instituciones de Primera División (Liga Profesional), estos rangos fijos deberán ser revisados y ajustados a la magnitud del club.
+    * **Cargo Variable (Fee Transaccional):** Entre un **1% y un 5%** por cada transacción procesada por la plataforma.
+* **Estimación de ingresos:**
   Enfocándose en la Fase 1 (Entre Primera B y C = 87 clubes), con una penetración del ~12% (10 clubes):
-  * **Setup Fees (10 clubes):** $20.000 USD (Se estima un tiempo de 2 semanas de integración promedio por club).
-  * **Suscripciones Mensuales (10 clubes):** $2.000 USD/mes.
-  * **Flujo proyectado (Año 1 total):** **$44.000 USD anuales** (Sin contar Marketplace CPA, que podría añadir un 10-15% adicional según el volumen de sponsors).
+  * **Setup Fees (10 clubes):** $0 USD (Inversión estratégica en posicionamiento).
+  * **Cargos Fijos Mensuales (10 clubes, avg. $400):** $4.000 USD/mes.
+  * **Cargos Variables (Fee Transaccional):** Escalará exponencialmente a medida que los hinchas adopten la app para pagar sus cuotas y entradas, generando un flujo constante de ingresos automáticos no limitados por un abono fijo.
+  * **Flujo proyectado Fijo en un primer año operativo completo:** **$48.000 USD anuales** (Este es el "piso" garantizado, al cual se le debe sumar el volumen dinámico del Fee Transaccional y el potencial Marketplace CPA).
 
 ### Promoción
 
