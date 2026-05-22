@@ -105,10 +105,12 @@ Para definir nuestra estrategia de penetración, analizamos la estructura del f�
 | **1°** | **Liga Profesional** | **30** |
 | **2°** | **Primera Nacional** | **36** |
 | **3°** | **Primera B Metropolitana** | **22** |
-| **3°** | **Torneo Federal A** | **37** |
-| **4°** | **Primera C** | **28** |
-| **4°** | **Torneo Regional Federal Amateur** | **~330** |
-| **5°** | **Torneo Promocional Amateur** | **17** |
+| **4°** | **Torneo Federal A** | **37** |
+| **5°** | **Primera C** | **28** |
+| **6°** | **Torneo Regional Federal Amateur** | **~330** |
+| **7°** | **Torneo Promocional Amateur** | **17** |
+
+[🔗 Ver Anexo Documental: Listado de Clubes y Masa Societaria](clubes-socios.html){: .btn .btn-primary .mt-4 }
 
 #### Estrategia de Penetración de Mercado (Go-To-Market):
 
