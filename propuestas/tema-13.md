@@ -151,12 +151,29 @@ La estrategia de monetización de SocioUnido se basa en un "Pricing basado en el
 
 ### Promoción
 
-Dado que el cliente es B2B e institucional, la captación se centra en ventas corporativas y relaciones públicas:
+Dado que el cliente es institucional (B2B) y el ecosistema del fútbol es altamente cerrado, la captación se aleja del marketing digital masivo y se centra exclusivamente en **Ventas Corporativas (Outbound), Relaciones Públicas y Casos de Éxito**.
 
-* **Venta Consultiva (Outbound B2B):** Contacto directo con dirigentes de la Primera B y C, ofreciendo una "Auditoría de Recaudación".
-* **Calculadoras de ROI:** Herramientas interactivas donde el tesorero del club pueda ingresar su cantidad de socios y el valor de la cuota, y el sistema le calcule de forma tangible cuánto dinero adicional ingresaría mensualmente al aplicar la tecnología de retención y QR dinámico.
-* **Networking Estratégico:** Asistencia a reuniones de comité, asambleas de representantes y alianzas con consultoras de *Sports Management* que actúen como puente de confianza entre la dirigencia del club y nuestra tecnología.
+Nuestra estrategia de Go-To-Market (GTM) y promoción se divide en las siguientes metodologías de acción:
 
+#### 1. Metodología de Contacto y Penetración de Mercado
+
+* **Venta Consultiva (Outbound B2B):** El contacto inicial no busca "vender un software", sino ofrecer una **"Auditoría de Recaudación y Fuga de Capitales"**. Nos acercamos a los Tesoreros y Presidentes de los clubes de la Primera B y C (Fase 1) a través de LinkedIn, correos institucionales y contactos en común.
+* **Networking y Alianzas Estratégicas:** Asistencia a asambleas, reuniones de comité en AFA y congresos de *Sports Management*. Además, buscaremos forjar alianzas con consultoras deportivas y agencias de marketing que ya trabajen con estos clubes, para que actúen como puente de confianza e introduzcan nuestra tecnología a la dirigencia.
+
+#### 2. Estrategia de Presentación y Demostración de Valor
+
+Las reuniones comerciales deben ser sumamente prácticas y enfocadas en el dolor económico e institucional del club. Buscamos demostrar que SocioUnido es una herramienta que **"se paga sola"**:
+
+* **Uso de Calculadoras de ROI interactivas:** Durante la reunión, le pedimos al tesorero que ingrese la cantidad de socios del club y el valor de su cuota. El sistema calculará en vivo cuánto dinero adicional ingresarían mensualmente al reducir la morosidad un 15%, eliminar el fraude de carnets prestados y optimizar espacios rentables de la institución.
+* **Demostración en vivo (Prueba de Estrés):** Haremos demostraciones físicas del **Smart Access (QR Offline)** poniendo los teléfonos en "Modo Avión" para probar que los molinetes siguen validando los accesos. Además, mostraremos la fluidez del **Asistente de WhatsApp**, permitiendo que un directivo envíe un audio y vea cómo el bot le responde y gestiona un pago en segundos.
+
+#### 3. Programa de "Early Adopters" y Co-Marketing (El motor de la promoción)
+
+Como se definió en la estrategia de precios, el motor de nuestra promoción inicial será el **Setup Fee 100% bonificado** para los primeros clubes que adopten el sistema.
+
+* **Generación de Casos de Éxito:** A cambio de la instalación gratuita, estos primeros clubes asumen el compromiso de convertirse en nuestros "Casos de Estudio". Documentaremos el "Antes y Después" de su recaudación y sus tiempos de acceso al estadio.
+* **Efecto Contagio (Boca a Boca Dirigencial):** El fútbol argentino funciona por imitación y rivalidad. Cuando un club de la Primera B anuncie su modernización, reduzca sus filas en los estadios y aumente sus ingresos, sus rivales directos sentirán la presión de igualarlos. Utilizaremos testimonios en video de los presidentes y tesoreros de estos primeros clubes para validar la plataforma ante el resto del mercado.
+* **Relaciones Públicas:** Lanzamiento de gacetillas de prensa en medios deportivos y de negocios (ej. Olé, Infobae Económico, portales de ascenso) cada vez que un nuevo club migre su sistema a SocioUnido, ganando autoridad de marca y visibilidad gratuita.
 
 ## Análisis Competitivo y Estrategia de Posicionamiento
 
@@ -172,8 +189,6 @@ Para validar la viabilidad comercial de **SocioUnido**, es fundamental contrasta
 | **Canales de Atención** | Interfaz cerrada (El socio está obligado a ingresar a la App/Web para operar). | **Omnicanalidad NLP:** El socio puede pagar o consultar enviando un audio mediante WhatsApp. |
 | **Enfoque de Mercado** | Captación agresiva orientada a la Primera División y clubes de básquet/vóley grandes. | **Estrategia de Nicho (Go-To-Market):** Foco quirúrgico en B Metropolitana, Primera C y Primera Nacional. |
 
----
-
 ### 2. Diferenciales Técnicos y de Negocio Clave
 
 Para superar la oferta actual, SocioUnido no compite en ser un "mejor sistema contable", sino que se posiciona como una **herramienta de inteligencia de negocios y ciberseguridad** que resuelve problemas físicos y operativos reales de los clubes:
@@ -181,8 +196,6 @@ Para superar la oferta actual, SocioUnido no compite en ser un "mejor sistema co
 * **La Realidad del Molinete (Smart Access Offline):** En los minutos previos a un partido, la aglomeración de gente hace colapsar las redes 4G en las inmediaciones del estadio. Si un carnet digital requiere conexión en ese instante para ser validado, el embudo de ingreso fracasa. SocioUnido utiliza tecnología de **Tokens TOTP** (Time-Based One-Time Password); la aplicación genera un código criptográfico válido sin necesidad de internet, y el molinete lo valida matemáticamente. Es una solución de alta ingeniería para un cuello de botella físico.
 * **Retención vs. Cobranza (El Motor Predictivo):** Los sistemas tradicionales entregan listas de morosos para gestión telefónica. SocioUnido analiza datos históricos de asistencia y pagos. Si un socio con asistencia perfecta falta a dos partidos consecutivos, el algoritmo detecta el "riesgo de baja" y dispara acciones automáticas de marketing (Ej. "¡Te extrañamos en la tribuna! Pagá tu cuota acá con un beneficio exclusivo"). Esto transforma la cobranza de deudas en **salvataje de capital**.
 * **Fricción Cero en Transacciones (Asistente NLP):** Obligar al hincha a descargar una app adicional, recordar credenciales y loguearse para pagar una cuota atrasada genera fricción. Al habilitar un bot de WhatsApp que entiende lenguaje natural (audios y texto) y devuelve links de pago directos (ej. MercadoPago), se incrementa drásticamente la tasa de conversión y regularización de pagos.
-
----
 
 ### 3. Estrategia de Proyección y Go-To-Market
 
