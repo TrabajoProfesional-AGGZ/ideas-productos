@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7. AutoCare Preventivo
+title: 7. AutoCare
 nav_order: 8
 ---
 

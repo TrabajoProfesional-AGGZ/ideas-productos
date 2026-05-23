@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6. DevQuest Onboarding
+title: 6. DevQuest
 nav_order: 7
 ---
 

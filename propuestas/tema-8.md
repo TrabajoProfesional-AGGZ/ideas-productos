@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8. SmartPantry Gastronomía
+title: 8. SmartPantry
 nav_order: 9
 ---
 
