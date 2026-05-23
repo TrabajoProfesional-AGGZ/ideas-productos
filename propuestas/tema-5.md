@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 5. SkyDictate Safety
+title: 5. SkyDictate
 nav_order: 6
 ---
 
-# SkyDictate Safety: Supervisor Inteligente de Separación Aérea
+# SkyDictate: Supervisor Inteligente de Separación Aérea
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -14,7 +14,7 @@ Los errores humanos en la comunicación entre la torre de control (ATC) y los pi
 
 Desarrollo de un sistema de auditoría en tiempo real que "escucha" y procesa las frecuencias de radio aeronáuticas. 
 
-SkyDictate Safety digitaliza las instrucciones dadas por los controladores y las contrasta instantáneamente con un modelo de simulación de las posiciones actuales y las regulaciones vigentes. Si una instrucción rompe un protocolo de seguridad, el sistema emite una alerta preventiva antes de que el piloto ejecute la maniobra.
+SkyDictate digitaliza las instrucciones dadas por los controladores y las contrasta instantáneamente con un modelo de simulación de las posiciones actuales y las regulaciones vigentes. Si una instrucción rompe un protocolo de seguridad, el sistema emite una alerta preventiva antes de que el piloto ejecute la maniobra.
 
 ## 👥 Clientes objetivos
 

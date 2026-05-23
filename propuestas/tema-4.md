@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 4. AeroGuard Vision
+title: 4. AeroGuard
 nav_order: 5
 ---
 
-# AeroGuard Vision: Sistema de Seguridad de Incursiones en Pista
+# AeroGuard: Sistema de Seguridad de Incursiones en Pista
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -16,7 +16,7 @@ La oportunidad radica en que el sector aeronáutico prioriza la redundancia extr
 
 Desarrollo de una plataforma de monitoreo inteligente que utiliza cámaras de alta definición y visión computacional para supervisar el movimiento en pistas y calles de rodaje.
 
-AeroGuard Vision actúa como un "ojo digital" que detecta anomalías y activa alertas lumínicas y sonoras automáticas en los accesos de pista si detecta una trayectoria de colisión inminente entre una aeronave y un objeto/vehículo terrestre.
+AeroGuard actúa como un "ojo digital" que detecta anomalías y activa alertas lumínicas y sonoras automáticas en los accesos de pista si detecta una trayectoria de colisión inminente entre una aeronave y un objeto/vehículo terrestre.
 
 ## 👥 Clientes objetivos
 
