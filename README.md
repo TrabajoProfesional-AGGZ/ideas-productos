@@ -2,7 +2,7 @@
 
 Análisis, evaluación y resumen de las propuestas temáticas candidatas para el Trabajo Profesional.
 
-📖 **[Ver la documentación online aquí](https://trabajoprofesional-aggz.github.io/ideas-productos/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/ideas-productos/)**
 
 ## Sobre este repositorio
 
