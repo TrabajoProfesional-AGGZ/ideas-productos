@@ -2,7 +2,7 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Página principal de propuestas."
+description: "Página documental de las ideas contempladas para el Trabajo Profesional"
 ---
 
 # Propuestas de producto
