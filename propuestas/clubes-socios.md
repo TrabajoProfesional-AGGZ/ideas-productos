@@ -5,11 +5,11 @@ parent: 13. SocioUnido
 nav_order: 1
 ---
 
-# Anexo Documental: Listado de Clubes y Masa Societaria
+# Anexo documental: Listado de clubes y masa societaria
 
 Este documento sirve como registro y base de datos para el cálculo de los *Setup Fees* y las suscripciones mensuales de **SocioUnido**, los cuales escalan en base a la cantidad de socios a digitalizar y migrar a la plataforma.
 
-> **Nota Metodológica:** Los datos correspondientes a la Liga Profesional reflejan los números oficiales publicados en el último *Informe de Clubes de la AFA*. Los números de las categorías de ascenso representan estimaciones de mercado utilizadas para el modelado del GTM (Go-To-Market) de nuestra Fase 1.
+> **Nota metodológica:** Los datos correspondientes a la Liga Profesional reflejan los números oficiales publicados en el último *Informe de Clubes de la AFA*. Los números de las categorías de ascenso representan estimaciones de mercado utilizadas para el modelado del GTM (Go-To-Market) de nuestra Fase 1.
 
 ## 1° Nivel: Liga Profesional (Fase 2 - Escalamiento)
 
@@ -51,6 +51,7 @@ Este documento sirve como registro y base de datos para el cálculo de los *Setu
 *\*Nota: Gimnasia y Esgrima (Mendoza) y Estudiantes (Río Cuarto) ascendieron recientemente a Primera División, por lo que sus cifras representan la mejor estimación de mercado disponible al no figurar en el reporte oficial de la AFA para esta categoría.*
 
 ## 2° Nivel: Primera Nacional (Fase 2 - Transición)
+
 Equipos con convocatorias masivas en el interior del país y Gran Buenos Aires. Al no existir un informe unificado reciente de AFA para la totalidad del ascenso, las cifras representan comunicados oficiales recientes de los propios clubes o estimaciones consolidadas de mercado.
 
 | Club | Socios Activos |
@@ -92,7 +93,7 @@ Equipos con convocatorias masivas en el interior del país y Gran Buenos Aires. 
 | **San Miguel** | Desconocido |
 | **Tristán Suárez** | Desconocido |
 
-*\*Nota Metodológica de la Categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
+*\*Nota metodológica de la categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
 
 ## 3° Nivel: Primera B Metropolitana (Fase 1 - Go To Market)
 
@@ -121,7 +122,7 @@ Equipos con convocatorias masivas en el interior del país y Gran Buenos Aires. 
 | **Deportivo Camioneros** | Desconocido |
 | **UAI Urquiza** | Desconocido |
 
-*\*Nota Metodológica de la Categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
+*\*Nota metodológica de la categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
 
 ## 4° Nivel: Torneo Federal A (Fase 1 - Go To Market)
 
@@ -165,7 +166,7 @@ Equipos con convocatorias masivas en el interior del país y Gran Buenos Aires. 
 | **Gimnasia y Esgrima (Chivilcoy, Buenos Aires)** | Desconocido |
 | **Tucumán Central (San Miguel de Tucumán, Tucumán)** | Desconocido |
 
-*\*Nota Metodológica de la Categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
+*\*Nota metodológica de la categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
 
 ## 5° Nivel: Primera C (Fase 1 - Go To Market)
 
@@ -200,4 +201,4 @@ Equipos con convocatorias masivas en el interior del país y Gran Buenos Aires. 
 | **Estrella del Sur** | Desconocido |
 | **Leones de Rosario** | Desconocido |
 
-*\*Nota Metodológica de la Categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
+*\*Nota metodológica de la categoría:* Las cifras aproximadas (~) se estimaron mediante un análisis cruzado que contempla la capacidad de los estadios, el promedio histórico de asistencia de local, censos de peñas y registros de recaudación de entradas de las últimas temporadas. Por su parte, la mención **"Desconocido"** significa que el club carece de plataformas digitales auditables o de comunicados oficiales con datos públicos recientes, manejándose con registros internos manuales o de alta informalidad.
