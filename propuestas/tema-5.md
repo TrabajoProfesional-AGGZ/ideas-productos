@@ -4,7 +4,7 @@ title: 5. SkyDictate
 nav_order: 6
 ---
 
-# SkyDictate: Supervisor Inteligente de Separación Aérea
+# SkyDictate: Supervisor inteligente de separación aérea
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -18,15 +18,15 @@ SkyDictate digitaliza las instrucciones dadas por los controladores y las contra
 
 ## 👥 Clientes objetivos
 
-* **Proveedores de Servicios de Navegación Aérea (ANSP):** Para equipar torres de control con herramientas de soporte a la decisión.
-* **Fabricantes de Aviones:** Para integrar sistemas de validación de voz en la aviónica de cabina.
+* **Proveedores de servicios de navegación aérea (ANSP):** Para equipar torres de control con herramientas de soporte a la decisión.
+* **Fabricantes de aviones:** Para integrar sistemas de validación de voz en la aviónica de cabina.
 
 ## 📱 Medios de uso
 
-* **Sistema Embebido en Torre:** Interfaz que transcribe y valida la voz del controlador.
-* **Aviónica de Cabina:** Alertas visuales en el PFD (Primary Flight Display) sobre conflictos de altura próximos.
+* **Sistema embebido en torre:** Interfaz que transcribe y valida la voz del controlador.
+* **Aviónica de cabina:** Alertas visuales en el PFD (Primary Flight Display) sobre conflictos de altura próximos.
 
 ## 🤖 Uso de IA
 
-* **Speech-to-Text (NLP) Especializado:** Modelado de lenguaje entrenado en fraseología aeronáutica estándar para entender instrucciones complejas.
-* **Motor de Reglas Predictivo:** Análisis de escenarios para verificar que las nuevas coordenadas/alturas no generen conflictos con el tráfico circundante.
+* **Speech-to-text (NLP) especializado:** Modelado de lenguaje entrenado en fraseología aeronáutica estándar para entender instrucciones complejas.
+* **Motor de reglas predictivo:** Análisis de escenarios para verificar que las nuevas coordenadas/alturas no generen conflictos con el tráfico circundante.

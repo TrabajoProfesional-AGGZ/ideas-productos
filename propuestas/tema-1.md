@@ -4,7 +4,7 @@ title: 1. ScoreMaster
 nav_order: 2
 ---
 
-# ScoreMaster: Evolución de la Información Deportiva
+# ScoreMaster: Evolución de la información deportiva
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -20,8 +20,8 @@ ScoreMaster se posiciona como una alternativa premium que prioriza la usabilidad
 
 ## 👥 Clientes objetivos
 
-* **Usuarios Finales:** Aficionados al fútbol que buscan una experiencia de uso superior.
-* **Marcas Deportivas / Anunciantes:** Empresas interesadas en publicidad segmentada de alto alcance.
+* **Usuarios finales:** Aficionados al fútbol que buscan una experiencia de uso superior.
+* **Marcas deportivas / anunciantes:** Empresas interesadas en publicidad segmentada de alto alcance.
 
 ## 📱 Medios de uso
 
@@ -30,8 +30,8 @@ ScoreMaster se posiciona como una alternativa premium que prioriza la usabilidad
 
 ## 🤖 Uso de IA
 
-* **Generación de Resúmenes:** Uso de NLP para crear síntesis automáticas de los eventos más importantes de cada jornada en base a las preferencias del usuario.
+* **Generación de resúmenes:** Uso de NLP para crear síntesis automáticas de los eventos más importantes de cada jornada en base a las preferencias del usuario.
 
-## 🎨 Prueba de Concepto (PoC)
+## 🎨 Prueba de concepto (PoC)
 
 Visualiza la maqueta del proyecto aquí: [Sports Web App Dashboard – Figma](https://www.figma.com/make/AZHjsOIjtY0gfUZW6YnBHd/Sports-Web-App-Dashboard?p=f&preview-route=%2Fmatch%2F1)

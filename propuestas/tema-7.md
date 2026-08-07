@@ -4,7 +4,7 @@ title: 7. AutoCare
 nav_order: 8
 ---
 
-# AutoCare: Ecosistema de Mantenimiento Automotriz Preventivo
+# AutoCare: Ecosistema de mantenimiento automotriz preventivo
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -18,15 +18,15 @@ Además, permite digitalizar el historial completo del auto subiendo fotos de la
 
 ## 👥 Clientes objetivos
 
-* **Talleres Mecánicos y Concesionarias:** Como herramienta B2B (SaaS) para fidelizar a sus clientes mediante recordatorios automáticos ("Es hora de cambiar la correa").
-* **Propietarios de Vehículos Particulares:** Usuarios finales que buscan cuidar la vida útil y el valor de reventa de su auto.
+* **Talleres mecánicos y concesionarias:** Como herramienta B2B (SaaS) para fidelizar a sus clientes mediante recordatorios automáticos ("Es hora de cambiar la correa").
+* **Propietarios de vehículos particulares:** Usuarios finales que buscan cuidar la vida útil y el valor de reventa de su auto.
 
 ## 📱 Medios de uso
 
-* **Aplicación Web / PWA:** Interfaz orientada al conductor para ver alertas, semáforos de estado del auto y subir facturas.
-* **Panel Administrativo B2B:** Dashboard para que el taller mecánico gestione su cartera de clientes y envíe avisos.
+* **Aplicación web / PWA:** Interfaz orientada al conductor para ver alertas, semáforos de estado del auto y subir facturas.
+* **Panel administrativo B2B:** Dashboard para que el taller mecánico gestione su cartera de clientes y envíe avisos.
 
 ## 🤖 Uso de IA
 
-* **Reconocimiento Óptico de Caracteres (OCR):** Para procesar fotos de facturas físicas y extraer automáticamente qué repuestos se cambiaron, la fecha y el costo, tabulándolo en la base de datos sin carga manual.
-* **Modelos Predictivos (Machine Learning):** Algoritmos que estiman la probabilidad de fallo de una pieza específica cruzando la telemetría del usuario con los promedios de desgaste de ese modelo de auto.
+* **Reconocimiento óptico de caracteres (OCR):** Para procesar fotos de facturas físicas y extraer automáticamente qué repuestos se cambiaron, la fecha y el costo, tabulándolo en la base de datos sin carga manual.
+* **Modelos predictivos (machine learning):** Algoritmos que estiman la probabilidad de fallo de una pieza específica cruzando la telemetría del usuario con los promedios de desgaste de ese modelo de auto.

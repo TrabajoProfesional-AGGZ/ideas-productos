@@ -4,7 +4,7 @@ title: 9. NutriPlan
 nav_order: 10
 ---
 
-# NutriPlan: Planificador Gastronómico Inteligente y Adaptativo
+# NutriPlan: Planificador gastronómico inteligente y adaptativo
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -22,10 +22,10 @@ Una plataforma integral que automatiza la planificación de la comida semanal de
 
 ## 📱 Medios de uso
 
-* **App Móvil:** Interfaz principal para el usuario final, permitiendo visualizar el menú, cargar la actividad física diaria y consultar la lista de compras de manera ágil.
-* **Integración con Wearables:** (Opcional) Sincronización con relojes inteligentes para medir la actividad deportiva real y ajustar el plan.
+* **App móvil:** Interfaz principal para el usuario final, permitiendo visualizar el menú, cargar la actividad física diaria y consultar la lista de compras de manera ágil.
+* **Integración con wearables:** (Opcional) Sincronización con relojes inteligentes para medir la actividad deportiva real y ajustar el plan.
 
 ## 🤖 Uso de IA
 
-* **Motor de Recomendación Adaptativo:** Algoritmos que ajustan dinámicamente las comidas semanales aprendiendo de los gustos del usuario y recalculando porciones según la carga de entrenamiento registrada.
-* **Filtros Restrictivos de Seguridad (LLMs):** Uso de procesamiento de lenguaje natural para garantizar que ninguna receta generada contenga trazas de ingredientes marcados como alérgenos.
+* **Motor de recomendación adaptativo:** Algoritmos que ajustan dinámicamente las comidas semanales aprendiendo de los gustos del usuario y recalculando porciones según la carga de entrenamiento registrada.
+* **Filtros restrictivos de seguridad (LLMs):** Uso de procesamiento de lenguaje natural para garantizar que ninguna receta generada contenga trazas de ingredientes marcados como alérgenos.

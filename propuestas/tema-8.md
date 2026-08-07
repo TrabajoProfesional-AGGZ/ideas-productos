@@ -4,7 +4,7 @@ title: 8. SmartPantry
 nav_order: 9
 ---
 
-# SmartPantry: Optimizador de Inventario y Recetas Gastronómicas
+# SmartPantry: Optimizador de inventario y recetas gastronómicas
 
 ## 🎯 Necesidad u oportunidad detectada
 
@@ -32,17 +32,17 @@ El objetivo es transformar el inventario en una fuente activa de decisiones oper
 
 ## 👥 Clientes objetivos
 
-### 🎯 Segmento inicial (Early Adopters)
+### 🎯 Segmento inicial (early adopters)
 - **Pequeños restaurantes y servicios de viandas** con alta rotación de insumos perecederos y necesidad de optimizar márgenes.
 
 ### 📈 Expansión
 
-- **B2B (Gastronomía Profesional):**
+- **B2B (gastronomía profesional):**
   - Restaurantes
   - Bares
   - Comedores institucionales (colegios, hospitales, empresas)
 
-- **B2C (Hogares):**
+- **B2C (hogares):**
   - Familias interesadas en reducir desperdicio
   - Usuarios que buscan planificación de comidas basada en stock disponible
 
@@ -103,8 +103,9 @@ El objetivo es transformar el inventario en una fuente activa de decisiones oper
 
 ### 3. Clientes
 
-1. **B2B (Gastronomía Profesional):** Pequeños restaurantes, bares, servicios de viandas y comedores institucionales que buscan optimizar su inventario y reducir mermas. 2. 
-2. **B2C (Hogares):** Familias y personas que desean gestionar eficientemente su alacena, reducir el desperdicio de alimentos y recibir sugerencias de recetas personalizadas basadas en los ingredientes disponibles.
+1. **B2B (gastronomía profesional):** Pequeños restaurantes, bares, servicios de viandas y comedores institucionales que buscan optimizar su inventario y reducir mermas.
+2. **B2C (hogares):** Familias y personas que desean gestionar eficientemente su alacena, reducir el desperdicio de alimentos y recibir sugerencias de recetas personalizadas basadas en los ingredientes disponibles.
+
 ---
 
 ### 4. Competidores
@@ -126,15 +127,15 @@ El objetivo es transformar el inventario en una fuente activa de decisiones oper
 
 ### 5. Contexto
 
-| Categoría | Corto Plazo (1-2 años) | Mediano Plazo (3-5 años) | Largo Plazo (+5 años) |
+| Categoría | Corto plazo (1-2 años) | Mediano plazo (3-5 años) | Largo plazo (+5 años) |
 | :--- | :---: | :---: | :---: | 
 | **Económico** | 🟢 | 🟢 | 🟢 |
 | **Regulatorio** | 🟢 | 🟢 | 🟢 |
-| **Social / Cultural** | 🟡 | 🟡 | 🟢 |
+| **Social / cultural** | 🟡 | 🟡 | 🟢 |
 | **Tecnológico** | 🟢 | 🟢 | 🟢 |
-| **Político / Ambiental** | 🟢 | 🟢 | 🟢 |
+| **Político / ambiental** | 🟢 | 🟢 | 🟢 |
 
 > **Guía de colores**
-> * 🟢 **Verde:** Bueno / Favorable.
-> * 🟡 **Amarillo:** Intermedio / Neutral.
-> * 🔴 **Rojo:** Malo / Riesgoso.
+> * 🟢 **Verde:** Bueno / favorable.
+> * 🟡 **Amarillo:** Intermedio / neutral.
+> * 🔴 **Rojo:** Malo / riesgoso.
