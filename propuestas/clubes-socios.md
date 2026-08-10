@@ -13,8 +13,6 @@ Este documento sirve como registro y base de datos para el cálculo de los *Setu
 
 ## 1° Nivel: Liga Profesional (Fase 2 - Escalamiento)
 
-## 1° Nivel: Liga Profesional (Fase 2 - Escalamiento)
-
 | Club | Socios Activos |
 | :--- | :--- |
 | **River Plate** | 352.712 |
