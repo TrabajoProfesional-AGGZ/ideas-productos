@@ -28,3 +28,5 @@ Puedes navegar por las distintas propuestas utilizando el menú lateral, o acced
 11. [**Cuentas Claras:** Gestión integral y predictiva de gastos del hogar.](propuestas/tema-11.html)
 12. [**MarketScout:** Comparador y optimizador de compras en supermercados.](propuestas/tema-12.html)
 13. [**SocioUnido:** Plataforma inteligente de gestión y fidelización deportiva.](propuestas/tema-13.html)
+
+* **[Métricas de la implementación](metricas.html):** Estadísticas del desarrollo, cantidad de commits, Pull Requests y distribución del trabajo en el equipo.
