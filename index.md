@@ -11,7 +11,7 @@ Bienvenido al registro de ideas candidatas para el Trabajo Profesional.
 
 El objetivo de este sitio es documentar y comparar las diferentes alternativas evaluadas, proporcionando un análisis claro de cada una para facilitar la toma de decisiones sobre el producto final a desarrollar.
 
-## Opciones en evaluación
+## Opciones evaluadas
 
 Puedes navegar por las distintas propuestas utilizando el menú lateral, o acceder directamente desde aquí:
 
